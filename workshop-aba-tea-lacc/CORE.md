@@ -3,7 +3,7 @@
 > Documento central do projeto. Todos os demais arquivos da pasta `workshop-aba-tea-lacc/` derivam deste arquivo e devem permanecer consistentes com ele. Qualquer alteração de escopo, cronograma, objetivos ou terminologia deve ser feita **primeiro aqui** e depois propagada.
 >
 > **Versão:** 1.0 — **aprovado pela palestrante** (inclui ajustes da análise de viabilidade, PLANO_WORKSHOP §14)  
-> **Status:** CORE e plano aprovados. Fluxo de revisão: 1. aprovação CORE/plano ✅ · 2. validação da bibliografia · 3. slides · 4. atividade prática · 5. roteiro de fala · 6. revisão e ensaio.
+> **Status:** CORE e plano aprovados. Fluxo de revisão: 1. aprovação CORE/plano ✅ · 2. validação da bibliografia ✅ · 3. slides · 4. atividade prática · 5. roteiro de fala · 6. revisão e ensaio.
 
 ---
 
@@ -81,7 +81,7 @@ Princípio: **profundidade em poucos conceitos-chave** em vez de cobertura ampla
 | Horário | Duração | Bloco | Conteúdo principal | Estratégia didática | Objetivos |
 |---|---|---|---|---|---|
 | 9h30–9h40 | 10 min | **0. Abertura** | Apresentação da palestrante, objetivos, combinados; pergunta disparadora ("Uma criança grita quando a atividade muda. Por quê?") | Exposição + enquete de mão levantada | — |
-| 9h40–9h55 | 15 min | **1. TEA: conceitos e heterogeneidade** | Critérios do DSM-5-TR, níveis de suporte, heterogeneidade, coocorrências; neurodiversidade e implicações para objetivos terapêuticos | Exposição dialogada | O1 |
+| 9h40–9h55 | 15 min | **1. TEA: conceitos e heterogeneidade** | Critérios do DSM-5-TR, níveis de gravidade (definidos pelo suporte necessário), heterogeneidade, coocorrências; neurodiversidade e implicações para objetivos terapêuticos | Exposição dialogada | O1 |
 | 9h55–10h20 | 25 min | **2. Fundamentos da ABA e análise funcional** | ABA como ciência aplicada (dimensões de Baer, Wolf & Risley); topografia × função; A–B–C; variáveis contextuais e operações motivadoras; reforçamento; hipóteses funcionais; **mini-exercício**: "mesma topografia, funções diferentes" | Exposição dialogada + exercício em duplas (5 min) | O2, O3, O4 |
 | 10h20–10h30 | 10 min | **3. Ponte ABA–TCC** | Aproximações e diferenças (pressupostos, unidade de análise, métodos, papel dos eventos privados); quando cada referencial é usado em TEA | Exposição + 1 pergunta de discussão | Requisito de escopo (§7) — contextualização para a LACC |
 | 10h30–10h45 | 15 min | **Intervalo** | — | — | — |
@@ -110,11 +110,11 @@ Objetivo do bloco: situar a ABA para uma liga cognitivo-comportamental **sem tra
 - **Fundamento filosófico:** ABA ancora-se no behaviorismo radical e na análise das relações entre comportamento e ambiente; a TCC (modelo beckiano) ancora-se no modelo cognitivo, no qual cognições são tratadas como mediadoras entre situação e resposta emocional/comportamental.
 - **Status dos eventos privados:** na ABA, pensamentos e sentimentos são comportamentos a serem explicados, não causas iniciadoras; na TCC, cognições são alvo central de intervenção.
 - **Unidade de análise e método:** contingência / análise funcional e delineamentos de sujeito único (ABA) × conceituação cognitiva, reestruturação cognitiva e protocolos frequentemente avaliados em ensaios clínicos randomizados (TCC).
-- **Aplicação em TEA:** ABA é amplamente usada no ensino de habilidades e manejo de comportamentos interferentes; TCC adaptada tem evidência sobretudo para ansiedade em autistas com repertório verbal que permita o trabalho cognitivo.
+- **Aplicação em TEA:** várias práticas focais com critério de evidência para pessoas autistas derivam de princípios comportamentais (ex.: FCT, intervenções antecedentes, reforçamento diferencial) [R25]; a TCC adaptada para autismo tem evidência de ensaio clínico randomizado para ansiedade em crianças autistas de 7 a 13 anos [R19].
 
 **Cuidados:**
 - Não chamar análise funcional de "análise de pensamentos" nem reestruturação cognitiva de "técnica ABA".
-- Ao mencionar terapias contextuais (ex.: ACT), indicar que se baseiam no contextualismo funcional/RFT e que sua classificação dentro das "ondas" da TCC é debatida — apenas como nota, sem aprofundar.
+- Ao mencionar terapias de "terceira onda" (ex.: ACT), fazê-lo em uma frase, citando [R18] (transição para cuidado baseado em processos), sem aprofundar e sem afirmar consensos não sustentados pelas referências.
 
 ## 8. Metodologia
 
@@ -177,7 +177,7 @@ Regras:
 
 ## 12. Bibliografia
 
-A bibliografia verificada está em [`REFERENCIAS.md`](REFERENCIAS.md) (31 referências, códigos R01–R31, com status de verificação e limites do que cada fonte sustenta).
+A bibliografia verificada está em [`REFERENCIAS.md`](REFERENCIAS.md) (32 referências, códigos R01–R32, com status de verificação e limites do que cada fonte sustenta).
 
 Regras:
 - Em slides e roteiro, citar pelo código `[Rnn]` e pela forma autor-data.
@@ -218,7 +218,7 @@ workshop-aba-tea-lacc/
 | Etapa | Arquivo | Conteúdo | Status |
 |---|---|---|---|
 | 0 | `CORE.md` | Documento central | ✅ v1.0 (aprovado) |
-| 1 | `REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ✅ v1.0 — aguardando revisão |
+| 1 | `REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ✅ v2.0 (validada) |
 | 2 | `PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ✅ v1.1 (aprovado) |
 | 3 | `ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ✅ v1.0 — aguardando revisão |
 | 4 | `ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ Próxima etapa |

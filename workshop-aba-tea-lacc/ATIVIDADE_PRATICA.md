@@ -193,7 +193,7 @@
 - **Não ter como alvo características autistas inofensivas**: o interesse intenso por trens é um recurso (motivação, conteúdo de ensino), não um problema a eliminar. [R04, R05]
 - **Segurança**: comportamentos com risco (ex.: bater a cabeça no chão) exigem plano específico e supervisão.
 - **Envolvimento da família**: definição conjunta de objetivos e de estratégias aplicáveis em casa. [R08]
-- **Supervisão clínica e limites de atuação**: decisões tomadas pela equipe responsável, com supervisão. (O7) [R28]
+- **Supervisão clínica e limites de atuação**: decisões tomadas pela equipe responsável, com supervisão. (O7) [R28, R32]
 
 ### B.5 Condução da plenária (8 min)
 
@@ -265,5 +265,5 @@
 
 - Tempos conforme `PLANO_WORKSHOP.md` §5 (Bloco 2: 5 min; Bloco 5: 2 + 10 + 8 min).
 - Terminologia conforme CORE §11 ("comportamento interferente", "operação motivadora", "FCT").
-- Referências citadas: R04, R05, R08, R10–R17, R19–R22, R24, R28, R30, todas em `REFERENCIAS.md`.
+- Referências citadas: R04, R05, R08, R10–R17, R19–R22, R24, R28, R30, R32, todas em `REFERENCIAS.md`.
 - Linguagem: "pessoa autista" (CORE §10).

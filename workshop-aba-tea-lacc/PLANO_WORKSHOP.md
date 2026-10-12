@@ -64,7 +64,7 @@ O workshop prioriza esse raciocínio em vez de cobrir muitos procedimentos. Tamb
 ### Bloco 1 — TEA: conceitos e heterogeneidade (9h40–9h55 · 15 min) · O1
 
 **Conteúdo**
-1. **Critérios diagnósticos** (DSM-5-TR): diferenças persistentes na comunicação e interação social; padrões restritos e repetitivos de comportamento, interesses ou atividades (incluindo aspectos sensoriais); início precoce; impacto funcional. Especificadores e níveis de suporte. [EVIDÊNCIA] [R01]
+1. **Critérios diagnósticos** (DSM-5-TR): diferenças persistentes na comunicação e interação social; padrões restritos e repetitivos de comportamento, interesses ou atividades (incluindo aspectos sensoriais); início precoce; impacto funcional. Especificadores e níveis de gravidade, definidos pelo suporte necessário. [EVIDÊNCIA] [R01]
 2. **Heterogeneidade**: variação em linguagem, capacidade intelectual, necessidades de suporte e coocorrências; o diagnóstico não define o plano de intervenção. [EVIDÊNCIA] [R02, R03]
 3. **Prevalência com contexto**: estimativa global ≈1% [R06]; vigilância dos EUA, 2022: 1 em 31 crianças de 8 anos [R07]. Variações refletem também práticas de identificação. [EVIDÊNCIA]
 4. **Neurodiversidade**: autismo como forma de variação humana; leitura de "déficit como diferença" [R04]; implicações para a linguagem [R05].
@@ -110,10 +110,12 @@ O workshop prioriza esse raciocínio em vez de cobrir muitos procedimentos. Tamb
 | Eventos privados | Comportamentos a serem explicados | Cognições como mediadoras e alvo central |
 | Unidade de análise | Relação comportamento–ambiente (contingência) | Situação–pensamento–emoção–comportamento |
 | Ferramenta de formulação | Análise funcional | Conceituação cognitiva |
-| Pesquisa típica | Delineamentos de sujeito único + estudos de grupo | Ensaios clínicos randomizados de protocolos |
+| Pesquisa típica* | Delineamentos de sujeito único + estudos de grupo | Ensaios clínicos randomizados de protocolos |
 
-3. **No TEA:** ABA amplamente usada no ensino de habilidades e no manejo de comportamentos interferentes [R25]; TCC adaptada com evidência em ECR para ansiedade em crianças autistas com repertório verbal compatível [R19]. [EVIDÊNCIA]
-4. **Nota sobre terapias contextuais** (1 frase): baseadas no contextualismo funcional; sua classificação como "terceira onda" da TCC é debatida [R18].
+\* *Linha "Pesquisa típica" é uma síntese didática das tradições de pesquisa, não um dado de uma referência específica; apresentar como tendência, não como regra.*
+
+3. **No TEA:** várias práticas focais com critério de evidência derivam de princípios comportamentais (ex.: FCT, intervenções antecedentes, reforçamento diferencial, ensino por tentativas discretas, intervenção naturalística) [R25]; a TCC adaptada para autismo tem evidência de ECR para ansiedade em crianças autistas de 7 a 13 anos [R19]. [EVIDÊNCIA]
+4. **Nota sobre a "terceira onda"** (1 frase): terapias como a ACT são descritas como parte da evolução da TCC em direção a um cuidado baseado em processos de mudança [R18]. Não aprofundar.
 
 **Pergunta de discussão:** "Num caso de ansiedade em uma adolescente autista com boa linguagem, o que cada referencial perguntaria primeiro?"
 
@@ -130,16 +132,16 @@ Durante o intervalo, deixar projetado o slide de "aquecimento" da atividade: *"A
 ### Bloco 4 — Da função à intervenção (10h45–11h03 · 18 min) · O4, O5, O7
 
 **Conteúdo**
-1. **Como se avalia a função** (≈4 min): avaliação indireta (entrevistas, escalas), descritiva (observação direta A–B–C) e análise funcional (manipulação sistemática de condições). Cada uma tem limites; a análise funcional exige profissional qualificado e supervisão. [EVIDÊNCIA] [R13, R14]
+1. **Como se avalia a função** (≈4 min): avaliação indireta (entrevistas, escalas), descritiva (observação direta A–B–C) e análise funcional (manipulação sistemática de condições). Cada uma tem limites; a análise funcional exige profissional qualificado e supervisão. [EVIDÊNCIA] [R13, R14, R28]
 2. **Estratégias antecedentes/preventivas** (≈3 min): ajustar variáveis contextuais e operações motivadoras (previsibilidade, avisos de transição, ajuste de demanda, escolhas, acesso a pausas), sempre ligadas à hipótese funcional. [HIPÓTESE CLÍNICA] fundamentada em princípios [R11, R15]
 3. **Ensino de repertórios alternativos: FCT** (≈4 min): ensinar uma resposta comunicativa que produz a mesma consequência do comportamento interferente, de forma mais eficiente e socialmente aceitável; depois, ensinar tolerância a espera/negativa. [EVIDÊNCIA] [R20, R21, R22]
-4. **Estratégias naturalistas e generalização** (≈3 min): NDBIs em contextos naturais, com interesses da criança e contingências naturais [R23]; generalização programada desde o início [R24]. Nota de rigor: a força da evidência varia conforme a qualidade dos estudos [R26]. [EVIDÊNCIA]
+4. **Estratégias naturalistas e generalização** (≈3 min): NDBIs em contextos naturais, com interesses da criança e contingências naturais [R23]; generalização programada desde o início [R24]. Nota de rigor: a força da evidência varia conforme a qualidade dos estudos [R26], e a literatura ainda monitora pouco os possíveis efeitos adversos das intervenções [R27]. [EVIDÊNCIA]
 5. **Ética e tomada de decisão** (≈4 min):
    - objetivos com relevância para a vida da pessoa, definidos com família e, sempre que possível, com a própria pessoa;
    - **assentimento**: observar sinais de concordância e de retirada [R30];
    - não intervir sobre características autistas inofensivas só por serem "diferentes";
-   - individualização e revisão por dados;
-   - **limites de atuação**: estudantes não conduzem avaliação ou intervenção sem formação e supervisão [R28, R29].
+   - individualização e revisão por dados, incluindo atenção a possíveis efeitos adversos [R27];
+   - **limites de atuação**: estudantes não conduzem avaliação ou intervenção sem formação e supervisão; no Brasil, a atuação do psicólogo segue o Código de Ética do CFP [R32] (o código do BACB [R28] é referência internacional da área).
 
 **Transição:** "Agora vocês vão fazer o caminho completo, com um caso."
 
@@ -190,9 +192,9 @@ Criança autista de cerca de 6 anos, com fala funcional limitada, que grita e se
 | 9h55–10h20 | 25 | 2. Fundamentos ABA e análise funcional | Exposição dialogada + mini-exercício em duplas | O2, O3, O4 | R10–R15, R22 |
 | 10h20–10h30 | 10 | 3. Ponte ABA–TCC | Exposição + quadro comparativo + 1 pergunta | Requisito de escopo (CORE §7) | R16–R19, R25 |
 | 10h30–10h45 | 15 | Intervalo | — | — | — |
-| 10h45–11h03 | 18 | 4. Da função à intervenção | Exposição dialogada com exemplos | O4, O5, O7 | R11, R13–R15, R20–R30 |
+| 10h45–11h03 | 18 | 4. Da função à intervenção | Exposição dialogada com exemplos | O4, O5, O7 | R11, R13–R15, R20–R28, R30, R32 |
 | 11h03–11h23 | 20 | 5. Atividade prática | Grupos + plenária | O2–O7 | R12, R14, R20 |
-| 11h23–11h30 | 7 | 6. Síntese | Síntese + perguntas | O7 | R26, R28–R30 |
+| 11h23–11h30 | 7 | 6. Síntese | Síntese + perguntas | O7 | R26–R30, R32 |
 | **Total** | **120** | | | | |
 
 ## 7. Matriz objetivos × blocos
