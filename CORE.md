@@ -3,7 +3,7 @@
 > Documento central do projeto. Todos os demais materiais (`materiais/*.md`) derivam deste arquivo e devem permanecer consistentes com ele. Qualquer alteração de escopo, cronograma, objetivos ou terminologia deve ser feita **primeiro aqui** e depois propagada.
 >
 > **Versão:** 0.2 — estrutura e cronograma aprovados; dados do evento atualizados; referências verificadas  
-> **Status:** etapa 1 (REFERENCIAS.md) concluída; próximas etapas aguardam aprovação.
+> **Status:** etapas 1 (REFERENCIAS.md) e 2 (PLANO_WORKSHOP.md) concluídas; próximas etapas aguardam aprovação.
 
 ---
 
@@ -86,7 +86,7 @@ Princípio: **profundidade em poucos conceitos-chave** em vez de cobertura ampla
 | 10h20–10h30 | 10 min | **3. Ponte ABA–TCC** | Aproximações e diferenças (pressupostos, unidade de análise, métodos, papel dos eventos privados); quando cada referencial é usado em TEA | Exposição + 1 pergunta de discussão | — (contextual) |
 | 10h30–10h45 | 15 min | **Intervalo** | — | — | — |
 | 10h45–11h03 | 18 min | **4. Da função à intervenção** | Avaliação funcional (tipos e quem conduz); estratégias antecedentes; FCT e repertórios alternativos; estratégias naturalistas e generalização; ética, assentimento, individualização | Exposição dialogada com exemplos clínicos fictícios | O4, O5, O7 |
-| 11h03–11h23 | 20 min | **5. Atividade prática — vinheta clínica** | Grupos analisam vinheta: antecedentes, resposta, consequências, hipóteses funcionais, dados que faltam, estratégias de avaliação/intervenção (12 min em grupo + 8 min de discussão comentada) | Pequenos grupos + plenária | O2–O7 |
+| 11h03–11h23 | 20 min | **5. Atividade prática — vinheta clínica** | Grupos analisam vinheta: antecedentes, resposta, consequências, hipóteses funcionais, dados que faltam, estratégias de avaliação/intervenção (2 min de instruções + 10 min em grupo + 8 min de discussão comentada) | Pequenos grupos + plenária | O2–O7 |
 | 11h23–11h30 | 7 min | **6. Síntese e encerramento** | 5 mensagens-chave; limites de atuação e supervisão; perguntas finais; referências para aprofundar | Síntese + perguntas | O7 |
 
 **Totais:** 105 min de atividade + 15 min de intervalo = **120 min**.
@@ -204,8 +204,8 @@ Regras:
 |---|---|---|---|
 | 0 | `CORE.md` | Documento central | ✅ v0.2 (aprovado) |
 | 1 | `materiais/REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ✅ v1.0 — aguardando revisão |
-| 2 | `materiais/PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ⏳ Próxima etapa |
-| 3 | `materiais/ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ⏳ |
+| 2 | `materiais/PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ✅ v1.0 — aguardando revisão |
+| 3 | `materiais/ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ⏳ Próxima etapa |
 | 4 | `materiais/ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ |
 | 5 | `materiais/SLIDES.md` | Estrutura slide a slide, notas, referências | ⏳ |
 | 6 | `materiais/CHECKLIST_FINAL.md` | Conferência de conteúdo, tempo, referências, materiais | ⏳ |
