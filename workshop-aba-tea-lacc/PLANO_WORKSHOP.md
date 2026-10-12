@@ -1,6 +1,6 @@
 # PLANO DO WORKSHOP — ABA e TEA | LACC
 
-> Plano pedagógico do workshop. Deriva do [`CORE.md`](../CORE.md) v0.2. As referências seguem os códigos `[Rnn]` de [`REFERENCIAS.md`](REFERENCIAS.md).
+> Plano pedagógico do workshop. Deriva do [`CORE.md`](CORE.md) v0.2. As referências seguem os códigos `[Rnn]` de [`REFERENCIAS.md`](REFERENCIAS.md).
 >
 > **Versão:** 1.0  
 > **Etiquetas (CORE §9):** **[EVIDÊNCIA]** · **[HIPÓTESE CLÍNICA]** · **[EXEMPLO DIDÁTICO]**

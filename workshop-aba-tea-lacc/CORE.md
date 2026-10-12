@@ -1,6 +1,6 @@
 # CORE — Workshop ABA e TEA | LACC
 
-> Documento central do projeto. Todos os demais materiais (`materiais/*.md`) derivam deste arquivo e devem permanecer consistentes com ele. Qualquer alteração de escopo, cronograma, objetivos ou terminologia deve ser feita **primeiro aqui** e depois propagada.
+> Documento central do projeto. Todos os demais arquivos da pasta `workshop-aba-tea-lacc/` derivam deste arquivo e devem permanecer consistentes com ele. Qualquer alteração de escopo, cronograma, objetivos ou terminologia deve ser feita **primeiro aqui** e depois propagada.
 >
 > **Versão:** 0.2 — estrutura e cronograma aprovados; dados do evento atualizados; referências verificadas  
 > **Status:** etapas 1 (REFERENCIAS.md) e 2 (PLANO_WORKSHOP.md) concluídas; próximas etapas aguardam aprovação.
@@ -177,7 +177,7 @@ Regras:
 
 ## 12. Bibliografia
 
-A bibliografia verificada está em [`materiais/REFERENCIAS.md`](materiais/REFERENCIAS.md) (31 referências, códigos R01–R31, com status de verificação e limites do que cada fonte sustenta).
+A bibliografia verificada está em [`REFERENCIAS.md`](REFERENCIAS.md) (31 referências, códigos R01–R31, com status de verificação e limites do que cada fonte sustenta).
 
 Regras:
 - Em slides e roteiro, citar pelo código `[Rnn]` e pela forma autor-data.
@@ -196,19 +196,34 @@ Regras:
 4. **Certificado, lista de presença, avaliação de reação** — fora do escopo destes materiais; o `CHECKLIST_FINAL.md` incluirá um item para confirmar com a organização da LACC.
 5. Prédio/sala na PUCRS — confirmar com a LACC (entra no checklist).
 
-**Pendências de referência:** ver `materiais/REFERENCIAS.md` §3 (código de ética do CFP, edições brasileiras de livros, detalhes 🟡).
+**Pendências de referência:** ver `REFERENCIAS.md` §3 (código de ética do CFP, edições brasileiras de livros, detalhes 🟡).
 
 ## 14. Entregáveis e fluxo de trabalho
+
+**Organização do projeto** (todos os arquivos na mesma pasta):
+
+```
+workshop-aba-tea-lacc/
+├── CORE.md               Regras centrais, objetivos, público e escopo científico.
+├── PLANO_WORKSHOP.md     Sequência de conteúdos e divisão do tempo.
+├── SLIDES.md             Estrutura dos slides, exemplos e notas para apresentação.
+├── ROTEIRO_FALA.md       O que falar em cada etapa e como fazer as transições.
+├── ATIVIDADE_PRATICA.md  Vinhetas clínicas, discussão e respostas comentadas.
+├── REFERENCIAS.md        Fontes científicas verificadas e referências dos slides.
+└── CHECKLIST_FINAL.md    Revisão científica, duração e preparação do evento.
+```
+
+**Ordem de produção:**
 
 | Etapa | Arquivo | Conteúdo | Status |
 |---|---|---|---|
 | 0 | `CORE.md` | Documento central | ✅ v0.2 (aprovado) |
-| 1 | `materiais/REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ✅ v1.0 — aguardando revisão |
-| 2 | `materiais/PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ✅ v1.0 — aguardando revisão |
-| 3 | `materiais/ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ⏳ Próxima etapa |
-| 4 | `materiais/ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ |
-| 5 | `materiais/SLIDES.md` | Estrutura slide a slide, notas, referências | ⏳ |
-| 6 | `materiais/CHECKLIST_FINAL.md` | Conferência de conteúdo, tempo, referências, materiais | ⏳ |
+| 1 | `REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ✅ v1.0 — aguardando revisão |
+| 2 | `PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ✅ v1.0 — aguardando revisão |
+| 3 | `ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ⏳ Próxima etapa |
+| 4 | `ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ |
+| 5 | `SLIDES.md` | Estrutura slide a slide, notas, referências | ⏳ |
+| 6 | `CHECKLIST_FINAL.md` | Conferência de conteúdo, tempo, referências, materiais | ⏳ |
 
 Ordem justificada: as referências são verificadas primeiro para que nenhum material posterior cite fontes não confirmadas; a atividade prática vem antes do roteiro e dos slides porque estes devem preparar o raciocínio exigido nela.
 

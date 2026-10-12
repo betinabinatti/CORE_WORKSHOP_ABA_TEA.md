@@ -1,6 +1,6 @@
 # REFERÊNCIAS — Workshop ABA e TEA | LACC
 
-> Bibliografia científica do workshop. Deriva do [`CORE.md`](../CORE.md) (§9, §12, §15).
+> Bibliografia científica do workshop. Deriva do [`CORE.md`](CORE.md) (§9, §12, §15).
 >
 > **Versão:** 1.0 — verificação realizada em 12/10/2026  
 > **Formato:** APA 7ª edição.
