@@ -157,18 +157,13 @@ Durante o intervalo, deixar projetado o slide de "aquecimento" da atividade: *"A
 **Vinheta principal (sinopse provisória; versão completa em `ATIVIDADE_PRATICA.md`)** [EXEMPLO DIDÁTICO]
 Criança autista de cerca de 6 anos, com fala funcional limitada, que grita e se joga no chão em momentos de transição de atividades preferidas para atividades de mesa. A vinheta inclui variáveis contextuais (ex.: sono, mudança de rotina) e reações dos adultos que variam entre as ocorrências, para permitir **mais de uma hipótese funcional**.
 
-**Roteiro de análise (projetado durante a atividade)**
-1. Descrevam o comportamento de forma observável (topografia).
-2. Quais antecedentes imediatos e variáveis contextuais aparecem?
-3. Quais consequências seguem o comportamento?
-4. Quais hipóteses funcionais são plausíveis? (pelo menos duas)
-5. Que informações faltam? Como poderiam ser obtidas, e por quem?
-6. Para cada hipótese: uma estratégia antecedente e um repertório alternativo a ensinar.
-7. Que cuidados éticos este caso exige?
+**Roteiro de análise (projetado durante a atividade; versão completa em `ATIVIDADE_PRATICA.md` B.3)**
+- Todos os grupos: (1) descrição observável, justificando as palavras; (2–3) antes e depois; (4) duas hipóteses com um dado a favor e um contra cada uma.
+- Rodízio: (5) como distinguir as hipóteses e o que se esperaria ver em cada uma; (6) uma estratégia e o risco de a hipótese estar errada; (7) dilema com a família ("tirar os trilhos de vez?").
 
 **Aviso obrigatório (projetado e falado):** *"Uma vinheta não permite concluir a função de um comportamento. Ela permite levantar hipóteses que exigem avaliação adequada."*
 
-**Vinheta de reserva:** adolescente autista, para grupos que terminarem antes (versão em `ATIVIDADE_PRATICA.md`).
+**Para grupos que terminarem antes:** desafio "dado novo" (ATIVIDADE B.6) ou vinheta de reserva com adolescente autista (ATIVIDADE C).
 
 ---
 

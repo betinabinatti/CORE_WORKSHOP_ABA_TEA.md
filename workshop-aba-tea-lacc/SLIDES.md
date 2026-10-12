@@ -2,7 +2,7 @@
 
 > Estrutura slide a slide. Deriva do [`CORE.md`](CORE.md) v1.0, do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) v1.1 e da [`ATIVIDADE_PRATICA.md`](ATIVIDADE_PRATICA.md) v1.1. Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md) v2.0.
 >
-> **Versão:** 1.0 · **Total:** 41 slides de apresentação + 1 de reserva + 3 de referências (apêndice)
+> **Versão:** 1.1 — S19, S36 e S37 alinhados à ATIVIDADE v1.2 · **Total:** 41 slides de apresentação + 2 de reserva + 3 de referências (apêndice)
 
 ---
 
@@ -73,6 +73,7 @@ Cada slide tem:
 | S40 | Para aprofundar | 6 | 1 | 11h29 |
 | S41 | Encerramento | 6 | — | 11h30 |
 | R1 | (Reserva) Vinheta: Lara | 5 | — | se necessário |
+| R2 | (Reserva) Desafio: dado novo | 5 | — | se necessário |
 | A1–A3 | Referências completas | apêndice | — | — |
 
 \* S35 e S36 ficam alternados (ou lado a lado) durante os 10 min de trabalho em grupo.
@@ -334,7 +335,8 @@ Cada slide tem:
 **Na tela** (ATIVIDADE A.1):
 > **Em duplas · 5 min**  
 > Nas três situações, o comportamento é o mesmo: *joga os materiais no chão e chora.*  
-> Para cada uma: **O que acontece logo depois? Que hipótese isso sugere? O que vocês precisariam observar mais?**
+> Para cada uma: **O que acontece logo depois? Que hipótese isso sugere? O que vocês precisariam observar mais?**  
+> **Desafio:** uma estratégia que ajudaria em uma situação e **pioraria** outra. Por quê?
 
 **Notas:** formar duplas com quem está ao lado. Projetar S20 logo em seguida.
 
@@ -564,15 +566,14 @@ Cada slide tem:
 
 ### S36 — Roteiro de perguntas
 **Na tela** (ATIVIDADE B.3):
-> **Todos:**  
-> 1. Descrevam o comportamento de forma observável  
-> 2. Antecedentes e variáveis contextuais?  
-> 3. Consequências?  
-> 4. Pelo menos duas hipóteses funcionais  
-> **Rodízio:**  
-> 5. Que informações faltam? Como obtê-las, e quem deve fazê-lo?  
-> 6. Para cada hipótese: uma estratégia antecedente e um repertório a ensinar  
-> 7. Que cuidados éticos o caso exige?
+> **Todos (≈6 min):**  
+> 1. Descrevam o comportamento de forma que dois observadores concordariam. Que palavras evitaram, e por quê?  
+> 2. O que acontece antes? *(rápida)* · 3. E depois? *(rápida)*  
+> 4. Duas hipóteses funcionais — **um dado a favor e um contra** cada uma  
+> **Rodízio (≈4 min):**  
+> 5. Como distinguir H1 de H2? **O que esperariam ver** em cada uma?  
+> 6. Uma estratégia para uma hipótese — **e se a hipótese estiver errada?**  
+> 7. **Dilema:** a mãe pergunta se não é melhor **tirar os trilhos de vez**. O que responder?
 
 **Notas:** alternar S35 e S36, ou montá-los lado a lado se a legibilidade permitir (testar no local).
 
@@ -582,7 +583,7 @@ Cada slide tem:
 **Na tela** (preenchido oralmente):
 > **Topografia → Contexto → Hipóteses → Dados que faltam → Estratégias → Ética**
 
-**Notas:** seguir a tabela da ATIVIDADE B.5 (8 min). Destaques: o lanche como dado que diferencia as hipóteses; o sono como variável contextual, não função; o FCT ensinando pedidos diferentes conforme a hipótese; o interesse por trens como recurso. Encerrar relendo o aviso: "Uma vinheta não permite concluir a função."
+**Notas:** seguir a tabela da ATIVIDADE B.5 (8 min). Destaques: o lanche como dado que enfraquece H1; o sono como variável contextual, não função; a previsão do que se veria em cada hipótese (P5); errar a hipótese pode **fortalecer** o comportamento (P6); o interesse por trens como recurso, e retirar não ensina comunicação (P7). Se sobrar tempo, usar o "dado novo" (ATIVIDADE B.6). Encerrar relendo o aviso: "Uma vinheta não permite concluir a função."
 
 **Referência (falada):** Hanley et al. (2014), para a hipótese de função sintetizada.
 
@@ -591,7 +592,7 @@ Cada slide tem:
 ### R1 — (Reserva) Vinheta: Lara *(Exemplo fictício)*
 **Na tela:** texto e perguntas da ATIVIDADE C.1–C.2.
 
-**Notas:** projetar apenas para grupos que terminarem antes, ou deixar para estudo posterior. Não entra no tempo.
+**Notas:** projetar apenas para grupos que terminarem antes, ou deixar para estudo posterior. Não entra no tempo. Outra opção para grupos rápidos: o desafio "dado novo" (ATIVIDADE B.6), que pode ficar em um slide R2.
 
 ---
 
