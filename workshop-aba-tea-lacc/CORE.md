@@ -3,7 +3,7 @@
 > Documento central do projeto. Todos os demais arquivos da pasta `workshop-aba-tea-lacc/` derivam deste arquivo e devem permanecer consistentes com ele. Qualquer alteração de escopo, cronograma, objetivos ou terminologia deve ser feita **primeiro aqui** e depois propagada.
 >
 > **Versão:** 1.0 — **aprovado pela palestrante** (inclui ajustes da análise de viabilidade, PLANO_WORKSHOP §14)  
-> **Status:** CORE e plano aprovados. Fluxo de revisão: 1. aprovação CORE/plano ✅ · 2. validação da bibliografia ✅ · 3. slides · 4. atividade prática · 5. roteiro de fala · 6. revisão e ensaio.
+> **Status:** CORE e plano aprovados. Fluxo de revisão: 1. aprovação CORE/plano ✅ · 2. validação da bibliografia ✅ · 3. slides ✅ · 4. atividade prática · 5. roteiro de fala · 6. revisão e ensaio.
 
 ---
 
@@ -222,7 +222,7 @@ workshop-aba-tea-lacc/
 | 2 | `PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ✅ v1.1 (aprovado) |
 | 3 | `ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ✅ v1.0 — aguardando revisão |
 | 4 | `ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ Próxima etapa |
-| 5 | `SLIDES.md` | Estrutura slide a slide, notas, referências | ⏳ |
+| 5 | `SLIDES.md` | Estrutura slide a slide, notas, referências | ✅ v1.0 — aguardando revisão |
 | 6 | `CHECKLIST_FINAL.md` | Conferência de conteúdo, tempo, referências, materiais | ⏳ |
 
 Ordem justificada: as referências são verificadas primeiro para que nenhum material posterior cite fontes não confirmadas; a atividade prática vem antes do roteiro e dos slides porque estes devem preparar o raciocínio exigido nela.
