@@ -1,0 +1,24 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-12T15:00:00Z"},
+  "lists": "css",
+  "title": "Workshop ABA e TEA — LACC",
+  "order": ["s01","s02","s03","s04","s05","s06","s07","s08","s09","s10","s11","s12","s13","s14","s15","s16","s17","s18","s19","s20","s21","s22","s23","s24","s25","s26","s27","s28","s29","s30","s31","s32","s33","s34","s35","s35b","s36","s37","s38","s39","s40","s41","r1","r2","a1","a2","a3","a4","a5"],
+  "sections": {
+    "b0": {"description": "Abertura: palestrante, objetivos, combinados e pergunta disparadora", "start": "s01"},
+    "b1": {"description": "Bloco 1: TEA, heterogeneidade e neurodiversidade", "start": "s07"},
+    "b2": {"description": "Bloco 2: fundamentos da ABA e análise funcional", "start": "s13"},
+    "b3": {"description": "Bloco 3: ponte entre ABA e TCC", "start": "s23"},
+    "int": {"description": "Intervalo", "start": "s27"},
+    "b4": {"description": "Bloco 4: da função à intervenção", "start": "s28"},
+    "b5": {"description": "Bloco 5: atividade prática com vinheta clínica", "start": "s34"},
+    "b6": {"description": "Bloco 6: síntese e encerramento", "start": "s38"},
+    "res": {"description": "Slides de reserva para grupos que terminarem antes", "start": "r1"},
+    "ap": {"description": "Apêndice: referências completas", "start": "a1"}
+  },
+  "faces": {
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"},
+    "public-sans": {"family": "Public Sans", "href": "https://fonts.googleapis.com/css2?family=Public+Sans:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}
