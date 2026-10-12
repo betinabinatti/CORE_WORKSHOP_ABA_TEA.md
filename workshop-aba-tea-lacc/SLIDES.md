@@ -562,7 +562,7 @@ Cada slide tem:
 > Enquanto assistem, observem: **Antes** · **Comportamento** · **Depois**  
 > *Animação · exemplo fictício · não representa uma criança real. Mostra um episódio; o padrão está na vinheta a seguir.*
 
-**Notas:** reproduzir `apresentacao/Video_Theo_animacao.mp4` à parte (o PDF não toca vídeo), uma vez, dentro dos 2 min de instruções. Depois: "Vocês viram **um** episódio. Agora vejam o que a equipe registrou em quatro semanas." Sem vídeo, pular este slide. Roteiro e prompts em ATIVIDADE B.0.
+**Notas:** vídeo com som (música e efeitos): conferir caixa de som. Reproduzir `apresentacao/Video_Theo_animacao.mp4` à parte (o PDF não toca vídeo), uma vez, dentro dos 2 min de instruções. Depois: "Vocês viram **um** episódio. Agora vejam o que a equipe registrou em quatro semanas." Sem vídeo, pular este slide. Roteiro e prompts em ATIVIDADE B.0.
 
 **Etiqueta:** [EXEMPLO DIDÁTICO]
 

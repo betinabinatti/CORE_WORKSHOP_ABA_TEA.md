@@ -2,7 +2,7 @@
 
 > Vinhetas clínicas, instruções, perguntas e respostas comentadas. Deriva do [`CORE.md`](CORE.md) (§8, §10) e do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) (Blocos 2 e 5). Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md).
 >
-> **Versão:** 1.4 — vídeo animado pronto (`apresentacao/Video_Theo_animacao.mp4`). Versão 1.3 — acrescentado vídeo de abertura opcional (B.0). Versão 1.2 — revisão da etapa 4: perguntas reescritas para exigir raciocínio clínico (usar dados, prever, justificar, decidir), e não memorização; ver §E  
+> **Versão:** 1.5 — vídeo com terapeuta visivelmente perdida, música e efeitos sonoros. Versão 1.4 — vídeo animado pronto (`apresentacao/Video_Theo_animacao.mp4`). Versão 1.3 — acrescentado vídeo de abertura opcional (B.0). Versão 1.2 — revisão da etapa 4: perguntas reescritas para exigir raciocínio clínico (usar dados, prever, justificar, decidir), e não memorização; ver §E  
 > **Todas as situações e personagens deste documento são fictícios** e foram construídos para fins didáticos **[EXEMPLO DIDÁTICO]**. Qualquer semelhança com casos reais é coincidência.
 
 ---
@@ -71,7 +71,9 @@
 
 > Decisão da palestrante: abrir a vinheta com um vídeo curto.
 >
-> **Versão pronta (animada):** `apresentacao/Video_Theo_animacao.mp4` — 34 s, 1280×720, MP4/H.264 (abre no iPad). Ilustração simples, não realista: cartão de abertura ("observem: antes, o que ele faz, depois") → brincando com os trilhos → terapeuta guarda os trilhos e aponta a mesa ("Agora acabou. Vamos para a mesa.") → grita, se joga no chão e chuta o ar → terapeuta devolve os trilhos e ele volta a brincar → cartão final ("Isto foi um episódio. Agora vejam o que a equipe registrou em quatro semanas."). Selo "Animação · exemplo fictício" em todas as cenas. Gerada por script (`apresentacao/fonte/animacao.py`).
+> **Versão pronta (animada):** `apresentacao/Video_Theo_animacao.mp4` — 34 s, 1280×720, MP4/H.264 (abre no iPad). Ilustração simples, não realista: cartão de abertura ("observem: antes, o que ele faz, depois") → brincando com os trilhos → terapeuta guarda os trilhos e aponta a mesa ("Agora acabou. Vamos para a mesa.") → grita, se joga no chão e chuta o ar, enquanto a terapeuta fica **visivelmente perdida** (surpresa, mãos na cabeça, braços abertos de "o que eu faço?") → ela devolve os trilhos às pressas, ele volta a brincar e ela fica aliviada → cartão final ("Isto foi um episódio. Agora vejam o que a equipe registrou em quatro semanas."). Selo "Animação · exemplo fictício" em todas as cenas. **Com som:** música de fundo calma, que fica tensa durante o episódio e volta à calma no fim, e efeitos (trenzinho, peças de madeira, caixa, grito estilizado, batidas no chão), tudo sintetizado, sem material de terceiros. Gerada por script (`apresentacao/fonte/animacao.py` e `audio.py`).
+>
+> ⚠️ **Precisa de caixa de som** na sala (o projetor sozinho pode não ter áudio). Sem som, o vídeo continua compreensível.
 >
 > **Versão realista (opcional):** se a palestrante quiser substituir a animação, gerar fora deste projeto numa ferramenta de vídeo por IA (ex.: Google Veo, OpenAI Sora, Runway, Kling), com os prompts abaixo, e trocar o aviso por "Vídeo gerado por IA · exemplo fictício".
 
@@ -91,6 +93,8 @@
 | 4 — Consequência | 6 s | Same characters. After a moment, the therapist opens the box and places the train tracks back in front of the boy. He sits up and starts playing again. Static medium shot. |
 
 **Coerência com a vinheta:** o vídeo mostra **uma** das reações registradas no texto (devolver os trilhos). Isso é intencional: quem vê só o vídeo tende a concluir "acesso aos trilhos" (H1); o texto traz o lanche e as outras reações, que enfraquecem essa conclusão. Use isso na plenária: *"O vídeo sozinho sugeria uma função. O que mudou quando vocês leram os registros?"*
+
+**Ponto didático extra trazido pelo vídeo (terapeuta perdida)** [HIPÓTESE CLÍNICA, a partir do princípio de reforçamento negativo; R11]: o comportamento **do adulto** também tem função. Devolver os trilhos encerra o grito e alivia a terapeuta; esse alívio pode **reforçar negativamente** o ato de devolver, tornando mais provável que ela devolva de novo, o que, por sua vez, mantém o comportamento de Theo. Pergunta opcional para a plenária ou para o grupo de P6: *"O que mantém o comportamento da terapeuta?"* Isso também reforça a importância de **plano prévio e supervisão**: sem um plano combinado, o adulto tende a reagir para encerrar o episódio, e não de acordo com a função.
 
 **Cuidados antes de usar:**
 1. A ferramenta pode **recusar** cenas realistas de crianças em sofrimento. Alternativas: gravar com atores (adulto no papel da terapeuta; criança apenas com autorização dos responsáveis) ou usar animação.

@@ -120,7 +120,7 @@ def tracks(d, cx, cy, k, train_angle, show_train=True):
 
 
 # ---------- personagens ----------
-def therapist(d, cx, base, arm="rest", talk=False, target=None):
+def therapist(d, cx, base, arm="rest", talk=False, target=None, mood="calm", eye_dx=0.0):
     d.ellipse(box(cx - 72, base - 32, cx + 72, base + 10), fill=KHAKI)
     d.rounded_rectangle(box(cx - 50, base - 150, cx + 50, base - 22), radius=s(24), fill=CARDIGAN)
     d.rectangle(box(cx - 13, base - 148, cx + 13, base - 24), fill=(236, 230, 214))
@@ -128,23 +128,54 @@ def therapist(d, cx, base, arm="rest", talk=False, target=None):
     d.ellipse(box(cx + 26, hy - 30, cx + 60, hy + 4), fill=HAIR_T)  # rabo de cavalo
     d.ellipse(box(hx - 38, hy - 38, hx + 38, hy + 38), fill=SKIN_T)
     d.pieslice(box(hx - 41, hy - 43, hx + 41, hy + 30), 180, 360, fill=HAIR_T)
-    d.ellipse(box(hx - 15, hy - 2, hx - 8, hy + 5), fill=INK)
-    d.ellipse(box(hx + 8, hy - 2, hx + 15, hy + 5), fill=INK)
-    if talk:
+    ex = eye_dx
+    if mood in ("worried", "surprised"):
+        d.ellipse(box(hx - 16 + ex, hy - 4, hx - 7 + ex, hy + 6), fill=PAPER)
+        d.ellipse(box(hx + 7 + ex, hy - 4, hx + 16 + ex, hy + 6), fill=PAPER)
+    d.ellipse(box(hx - 14 + ex, hy - 2, hx - 9 + ex, hy + 4), fill=INK)
+    d.ellipse(box(hx + 9 + ex, hy - 2, hx + 14 + ex, hy + 4), fill=INK)
+    if mood == "worried":
+        d.line(box(hx - 20, hy - 9, hx - 6, hy - 15), fill=INK, width=s(3))
+        d.line(box(hx + 6, hy - 15, hx + 20, hy - 9), fill=INK, width=s(3))
+        pts = [(hx - 10 + k * 4, hy + 18 + (2 if k % 2 else -2)) for k in range(6)]
+        d.line([(s(x), s(y)) for x, y in pts], fill=INK, width=s(3), joint="curve")
+        d.polygon([(s(hx - 44), s(hy - 26)), (s(hx - 49), s(hy - 14)), (s(hx - 39), s(hy - 14))], fill=(150, 200, 235))
+        d.ellipse(box(hx - 50, hy - 18, hx - 38, hy - 6), fill=(150, 200, 235))
+    elif mood == "surprised":
+        d.arc(box(hx - 20, hy - 20, hx - 6, hy - 8), 200, 340, fill=INK, width=s(3))
+        d.arc(box(hx + 6, hy - 20, hx + 20, hy - 8), 200, 340, fill=INK, width=s(3))
+        d.ellipse(box(hx - 6, hy + 12, hx + 6, hy + 24), fill=(150, 70, 60))
+    elif mood == "relief":
+        d.arc(box(hx - 16, hy - 4, hx - 6, hy + 4), 200, 340, fill=INK, width=s(3))
+        d.arc(box(hx + 6, hy - 4, hx + 16, hy + 4), 200, 340, fill=INK, width=s(3))
+        d.arc(box(hx - 11, hy + 8, hx + 11, hy + 22), 20, 160, fill=INK, width=s(3))
+    elif talk:
         d.ellipse(box(hx - 8, hy + 14, hx + 8, hy + 24), fill=(150, 70, 60))
     else:
         d.arc(box(hx - 11, hy + 8, hx + 11, hy + 22), 20, 160, fill=INK, width=s(3))
+
+    def arm_to(side, tx, ty):
+        sx, sy = cx + 46 * side, base - 132
+        line(d, (sx, sy), (tx, ty), CARDIGAN, 22)
+        d.ellipse(box(tx - 11, ty - 11, tx + 11, ty + 11), fill=SKIN_T)
+
+    def arm_rest(side):
+        line(d, (cx + 46 * side, base - 135), (cx + 50 * side, base - 45), CARDIGAN, 22)
+        d.ellipse(box(cx + 50 * side - 10, base - 56, cx + 50 * side + 10, base - 36), fill=SKIN_T)
+
+    if arm == "head":
+        arm_to(-1, hx - 40, hy + 2); arm_to(1, hx + 40, hy + 2)
+        return
+    if arm == "open":
+        arm_to(-1, cx - 112, base - 120); arm_to(1, cx + 112, base - 120)
+        return
     use_left = target is not None and arm != "rest" and target[0] < cx
     use_right = target is not None and arm != "rest" and not use_left
     for side, active in ((-1, use_left), (1, use_right)):
-        sx, sy = cx + 46 * side, base - 132
         if active:
-            tx, ty = target
-            line(d, (sx, sy), (tx, ty), CARDIGAN, 22)
-            d.ellipse(box(tx - 11, ty - 11, tx + 11, ty + 11), fill=SKIN_T)
+            arm_to(side, *target)
         else:
-            line(d, (sx, base - 135), (cx + 50 * side, base - 45), CARDIGAN, 22)
-            d.ellipse(box(cx + 50 * side - 10, base - 56, cx + 50 * side + 10, base - 36), fill=SKIN_T)
+            arm_rest(side)
 
 
 def child_sitting(d, cx, base, look=0, smile=True):
@@ -260,7 +291,12 @@ def scene_remove(t):
 def scene_behavior(t):
     img = Image.new("RGB", (W * SS, H * SS)); d = ImageDraw.Draw(img)
     background(d); toy_box(d, open_lid=False)
-    therapist(d, 700, 600)
+    if t < 0.8:
+        therapist(d, 700, 600, mood="surprised")
+    else:
+        phase = (t - 0.8) % 3.4
+        arm = "head" if phase < 1.8 else "open"
+        therapist(d, 700, 600, arm=arm, mood="worried", eye_dx=3.5 * math.sin(2 * math.pi * 0.9 * t))
     child_lying(d, t, kicking=True)
     label(d)
     return img
@@ -270,12 +306,14 @@ def scene_return(t):
     def render(child_mode):
         img = Image.new("RGB", (W * SS, H * SS)); d = ImageDraw.Draw(img)
         background(d)
-        k = ease((t - 0.8) / 1.6)
+        k = ease((t - 0.6) / 1.2)
         cx = BOX_C[0] + (TRACK_C[0] - BOX_C[0]) * k
         cy = BOX_C[1] + (TRACK_C[1] - BOX_C[1]) * k
-        toy_box(d, open_lid=0.4 < t < 2.6)
-        reaching = 0.6 < t < 2.6
-        therapist(d, 700, 600, arm="reach" if reaching else "rest", target=(cx + 60, cy - 6) if reaching else None)
+        toy_box(d, open_lid=0.3 < t < 2.2)
+        reaching = 0.4 < t < 2.2
+        mood = "worried" if t < 2.4 else ("relief" if t < 4.2 else "calm")
+        therapist(d, 700, 600, arm="reach" if reaching else "rest", target=(cx + 60, cy - 6) if reaching else None,
+                  mood=mood, eye_dx=0 if t > 2.4 else 2 * math.sin(6 * t))
         if child_mode == "lying":
             child_lying(d, t, kicking=False)
         else:
