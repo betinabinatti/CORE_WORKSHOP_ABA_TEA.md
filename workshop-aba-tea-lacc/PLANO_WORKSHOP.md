@@ -266,3 +266,49 @@ Não há avaliação formal. A palestrante acompanha a aprendizagem por:
 - `ROTEIRO_FALA.md` e `SLIDES.md` seguirão exatamente a sequência de conteúdos da §5 deste plano.
 - `ATIVIDADE_PRATICA.md` desenvolverá a vinheta principal, a vinheta de reserva e o mini-exercício do B2, com respostas comentadas.
 - Toda referência citada consta em `REFERENCIAS.md`.
+
+## 14. Análise de viabilidade dos objetivos em duas horas
+
+> Revisão feita para a aprovação do CORE e do plano (etapa 1 do fluxo de revisão). As propostas de ajuste estão marcadas como **PROPOSTA** e só serão aplicadas após aprovação da palestrante.
+
+### 14.1 Tempo dedicado a cada objetivo
+
+| Objetivo | Onde é trabalhado | Tempo efetivo aproximado | Nível realista em 2 h | Viável? |
+|---|---|---|---|---|
+| O1 — TEA e heterogeneidade | B1 (15 min) + retomada na síntese | ≈15 min | Compreensão introdutória | ✅ Sim, se o bloco ficar em 5 tópicos e não detalhar critérios item a item |
+| O2 — Topografia × função | B2 (≈4 min de exposição + 5 min de exercício) + atividade P1 | ≈12 min | Aplicação em exemplos simples | ✅ Sim. Objetivo mais bem coberto (exposição + prática duas vezes) |
+| O3 — A–B–C e variáveis contextuais | B2 (≈7 min) + atividade P2–P3 | ≈12 min | Identificação em vinheta | ✅ Sim. "Operação motivadora" fica em nível conceitual, sem subtipos |
+| O4 — Avaliar a função antes de intervir | B2 (fechamento) + B4 (≈4 min) + atividade P4–P5 | ≈12 min | Compreensão + justificativa | ✅ Sim. É a mensagem central e aparece em quatro momentos |
+| O5 — Estratégias baseadas em evidências | B4 (≈10 min) + atividade P6 | ≈13 min | **Reconhecimento**, não aplicação | ⚠️ Viável apenas em nível de reconhecimento. FCT, estratégias antecedentes, NDBI e generalização em ≈10 min permitem identificar e relacionar à função, não aprender a aplicar |
+| O6 — Analisar vinhetas e justificar | Atividade (20 min) | ≈18 min | Análise guiada de **uma** vinheta | ⚠️ Viável com ajuste: 7 perguntas em 10 min de grupo é pouco (≈1,4 min por pergunta). Ver PROPOSTA 2 |
+| O7 — Limites, individualização, supervisão | B0, B4 (≈4 min), atividade P7, B6 | ≈10 min | Compreensão e reconhecimento | ✅ Sim. Transversal e reforçado no fechamento |
+
+**Proporção de participação ativa:** mini-exercício (5 min) + atividade (20 min) + perguntas de discussão (≈8 min) ≈ **33 min de 105 (≈31%)**. É adequado para o formato de workshop com 7 objetivos.
+
+### 14.2 Pontos de risco identificados
+
+1. **Densidade do Bloco 4** (5 tópicos em 18 min, ≈3,5 min por tópico). Mitigação já prevista: condensar estratégias naturalistas/generalização se houver atraso (§10). A atividade prática retoma FCT e estratégias antecedentes, o que reduz o risco.
+2. **Atividade prática** — a vinheta do Theo tem ≈235 palavras e o roteiro ≈70. A leitura em grupo, a partir do projetor, leva de 2 a 3 min. Sobram ≈7–8 min para 7 perguntas, o que **não é viável** com profundidade.
+3. **Bloco 2** (7 itens em 25 min): viável, mas sem margem. Se o mini-exercício atrasar, usar a contingência da §10 (fazer em plenária).
+4. **Bloco 3 (ABA–TCC)** não corresponde a um objetivo O1–O7. É um requisito do escopo (CORE §7), não um objetivo de aprendizagem. Isso é coerente, mas pode ser explicitado.
+5. **Início em um sábado às 9h30**: risco de atraso na chegada. A contingência de redução do B0/B3 (§10) cobre até 5 min.
+
+### 14.3 Propostas de ajuste (aguardando aprovação)
+
+**PROPOSTA 1 — Explicitar o nível de profundidade de O5 e O6** (redação dos objetivos definida pela palestrante; a alteração só será feita se aprovada):
+
+| | Redação atual | Redação proposta |
+|---|---|---|
+| O5 | Identificar estratégias baseadas em evidências que favoreçam comunicação funcional, aprendizagem, participação e autonomia. | Identificar **exemplos de** estratégias baseadas em evidências que favoreçam comunicação funcional, aprendizagem, participação e autonomia, **relacionando-as à função do comportamento**. |
+| O6 | Analisar vinhetas clínicas e justificar escolhas de intervenção com base nos princípios apresentados. | Analisar **uma vinheta clínica**, levantar hipóteses funcionais e justificar escolhas de **avaliação e** intervenção com base nos princípios apresentados. |
+
+**PROPOSTA 2 — Redistribuir as perguntas da atividade prática** (sem alterar o tempo total de 20 min):
+- **Todos os grupos** respondem às perguntas **1 a 4** (topografia, contexto, consequências, hipóteses), que formam o núcleo do raciocínio funcional.
+- Cada grupo recebe **uma** das perguntas 5, 6 ou 7 (dados faltantes, estratégias, ética), em rodízio: grupo 1 → P5, grupo 2 → P6, grupo 3 → P7, grupo 4 → P5…
+- Na plenária, cada pergunta 5–7 é apresentada pelo grupo responsável. Assim, todas as perguntas são discutidas, e cada grupo tem tempo para raciocinar, e não apenas responder rapidamente.
+
+**PROPOSTA 3 — Explicitar o papel do Bloco 3** no CORE §6: marcar a coluna "Objetivos" como "Requisito de escopo (CORE §7) — contextualização para a LACC", em vez de "—".
+
+### 14.4 Conclusão
+
+Com os ajustes acima, os sete objetivos são **viáveis em duas horas em nível introdutório**. O2, O3, O4 e O7 são os mais bem sustentados, porque aparecem em exposição **e** em prática. O1 é viável em nível conceitual. O5 e O6 exigem que a profundidade esperada fique explícita, para que o workshop não prometa mais do que entrega (o que também é coerente com o escopo: não formar aplicadores).
