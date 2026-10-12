@@ -2,8 +2,8 @@
 
 > Documento central do projeto. Todos os demais materiais (`materiais/*.md`) derivam deste arquivo e devem permanecer consistentes com ele. Qualquer alteração de escopo, cronograma, objetivos ou terminologia deve ser feita **primeiro aqui** e depois propagada.
 >
-> **Versão:** 0.1 (proposta de estrutura)  
-> **Status:** aguardando aprovação da palestrante antes do desenvolvimento dos materiais completos.
+> **Versão:** 0.2 — estrutura e cronograma aprovados; dados do evento atualizados; referências verificadas  
+> **Status:** etapa 1 (REFERENCIAS.md) concluída; próximas etapas aguardam aprovação.
 
 ---
 
@@ -15,11 +15,11 @@
 | Público | Integrantes da Liga Acadêmica Cognitivo-Comportamental (LACC) |
 | Modalidade | Presencial, exclusivo para integrantes da LACC |
 | Horário | 9h30 às 11h30 (120 min, com intervalo de 15 min) |
-| Data | ⚠️ **A CONFIRMAR** |
-| Local | ⚠️ **A CONFIRMAR** |
-| Instituição vinculada à LACC | ⚠️ **A CONFIRMAR** (não presumir) |
-| Nº estimado de participantes | ⚠️ **A CONFIRMAR** (afeta formação de grupos na atividade prática) |
-| Recursos disponíveis | ⚠️ **A CONFIRMAR** (projetor, impressão de vinhetas, quadro) |
+| Data | 24/10/2026 (sábado) |
+| Local | PUCRS — ⚠️ prédio/sala a confirmar |
+| Instituição | PUCRS (informado pela palestrante) |
+| Nº estimado de participantes | Não informado — atividade prática desenhada para número flexível de grupos (4–6 pessoas por grupo) |
+| Recursos disponíveis | **Apenas projetor** — sem material impresso; vinheta e perguntas projetadas (ver §8) |
 
 ## 2. Palestrante
 
@@ -129,6 +129,7 @@ Objetivo do bloco: situar a ABA para uma liga cognitivo-comportamental **sem tra
   5. dados adicionais necessários e estratégias de avaliação;
   6. estratégias de intervenção coerentes com cada hipótese;
   7. considerações éticas (assentimento, objetivos significativos, supervisão).
+- **Logística (apenas projetor):** vinheta e roteiro de perguntas ficam projetados durante toda a atividade; grupos registram respostas em papel/celular próprio; a plenária usa um slide-síntese preenchido oralmente.
 - **Aviso obrigatório na vinheta e na plenária:** *uma vinheta não permite concluir a função de um comportamento; ela permite apenas levantar hipóteses que exigem avaliação adequada.*
 
 ## 9. Rigor científico e marcação de evidências
@@ -155,7 +156,7 @@ Regras:
 - Participação da família e da pessoa autista na definição de objetivos.
 - **Individualização**: nenhuma estratégia é "receita" independente de avaliação.
 - **Limites de atuação**: estudantes não conduzem avaliação/intervenção sem formação e supervisão; análise funcional experimental exige profissional qualificado.
-- Linguagem: alternar "pessoa autista" e "pessoa com TEA" com nota sobre preferências da comunidade e respeito à preferência individual. ⚠️ *Confirmar com a palestrante a convenção preferida.*
+- Linguagem: usar **"pessoa autista"** (convenção definida pela palestrante), com nota breve de que preferências individuais devem ser respeitadas [R05]. "TEA" permanece como termo diagnóstico (ex.: "critérios do TEA").
 
 ## 11. Terminologia padronizada (usar igual em todos os arquivos)
 
@@ -174,62 +175,36 @@ Regras:
 | NDBI | Intervenções Naturalísticas Desenvolvimentais Comportamentais. |
 | Generalização | Ocorrência do comportamento aprendido em pessoas, ambientes e materiais diferentes dos do ensino. |
 
-## 12. Bibliografia-base candidata
+## 12. Bibliografia
 
-> ⚠️ **Todas as referências abaixo estão pendentes de verificação** (DOI, paginação, ano) na etapa de `REFERENCIAS.md`. Nenhuma deve ser usada em slides antes disso.
+A bibliografia verificada está em [`materiais/REFERENCIAS.md`](materiais/REFERENCIAS.md) (31 referências, códigos R01–R31, com status de verificação e limites do que cada fonte sustenta).
 
-**TEA e neurodiversidade**
-- American Psychiatric Association. (2022). *DSM-5-TR*.
-- Lord, C. et al. (2020). Autism spectrum disorder. *Nature Reviews Disease Primers*, 6, 5.
-- Lord, C. et al. (2022). The Lancet Commission on the future of care and clinical research in autism. *The Lancet*, 399(10321), 271–334.
-- Kapp, S. K. et al. (2013). Deficit, difference, or both? Autism and neurodiversity. *Developmental Psychology*, 49(1), 59–71.
-- Fonte de prevalência (ex.: CDC/ADDM ou revisão sistemática de prevalência global) — **selecionar e verificar a versão mais recente**.
-- Brasil. Ministério da Saúde. (2014). *Diretrizes de Atenção à Reabilitação da Pessoa com Transtornos do Espectro do Autismo*.
+Regras:
+- Em slides e roteiro, citar pelo código `[Rnn]` e pela forma autor-data.
+- Só referências ✅ ou 🟡 (com o detalhe indicado já conferido) entram em slides.
+- Nenhuma afirmação pode ir além da coluna "O que pode ser afirmado" sem leitura do texto completo.
+- Dados de prevalência: sempre informar fonte, ano e população (ex.: EUA, 2022 [R07]; global [R06]).
 
-**Fundamentos da ABA e análise funcional**
-- Baer, D. M., Wolf, M. M., & Risley, T. R. (1968). Some current dimensions of applied behavior analysis. *JABA*, 1(1), 91–97.
-- Cooper, J. O., Heron, T. E., & Heward, W. L. (2020). *Applied Behavior Analysis* (3rd ed.).
-- Iwata, B. A. et al. (1982/1994). Toward a functional analysis of self-injury. *JABA*, 27(2), 197–209.
-- Hanley, G. P., Iwata, B. A., & McCord, B. E. (2003). Functional analysis of problem behavior: A review. *JABA*, 36(2), 147–185.
-- Laraway, S. et al. (2003). Motivating operations and terms to describe them. *JABA*, 36(3), 407–414.
+## 13. Pendências e decisões
 
-**Intervenção**
-- Carr, E. G., & Durand, V. M. (1985). Reducing behavior problems through functional communication training. *JABA*, 18(2), 111–126.
-- Tiger, J. H., Hanley, G. P., & Bruzek, J. (2008). Functional communication training: A review and practical guide. *Behavior Analysis in Practice*, 1(1), 16–23.
-- Schreibman, L. et al. (2015). Naturalistic developmental behavioral interventions. *JADD*, 45(8), 2411–2428.
-- Stokes, T. F., & Baer, D. M. (1977). An implicit technology of generalization. *JABA*, 10(2), 349–367.
-- Hume, K. et al. (2021). Evidence-based practices for children, youth, and young adults with autism: Third generation review. *JADD*, 51, 4013–4032. (e relatório NCAEP, Steinbrenner et al., 2020)
+**Confirmado pela palestrante:** data (24/10/2026), local/instituição (PUCRS), recursos (apenas projetor), linguagem ("pessoa autista").
 
-**Ética e qualidade de vida**
-- Behavior Analyst Certification Board. (2020). *Ethics Code for Behavior Analysts*.
-- Leaf, J. B. et al. (2022). Concerns about ABA-based intervention: An evaluation and recommendations. *JADD*, 52, 2838–2853.
-- Hanley, G. P. et al. (2014). Producing meaningful improvements in problem behavior of children with autism via synthesized analyses and treatments. *JABA*, 47(1), 16–36.
-- Fonte específica sobre **assentimento** em intervenção comportamental — **a selecionar e verificar**.
+**Ainda em aberto — decisões padrão adotadas (podem ser alteradas):**
+1. **Título definitivo** — mantém-se o provisório: *"Workshop ABA e TEA: da análise funcional à decisão clínica"*.
+2. **Número de participantes** — atividade em grupos de 4–6 pessoas, qualquer quantidade de grupos.
+3. **Vinheta** — vinheta principal com criança autista em idade escolar inicial (≈6 anos), em contexto clínico/escolar; uma segunda vinheta curta (adolescente) fica **de reserva** para grupos que terminarem antes ou para estudo posterior.
+4. **Certificado, lista de presença, avaliação de reação** — fora do escopo destes materiais; o `CHECKLIST_FINAL.md` incluirá um item para confirmar com a organização da LACC.
+5. Prédio/sala na PUCRS — confirmar com a LACC (entra no checklist).
 
-**Ponte ABA–TCC**
-- Beck, J. S. (2021). *Cognitive Behavior Therapy: Basics and Beyond* (3rd ed.).
-- Skinner, B. F. (1953). *Science and Human Behavior*.
-- Wood, J. J. et al. (2020). Cognitive behavioral treatments for anxiety in children with autism spectrum disorder: A randomized clinical trial. *JAMA Psychiatry*, 77(5), 474–483.
-- Fonte sobre terapias contextuais/relação com TCC — **a selecionar e verificar**.
-
-## 13. Pendências a confirmar com a palestrante
-
-1. Data, local e instituição vinculada à LACC.
-2. Número estimado de participantes e semestre/nível predominante.
-3. Recursos disponíveis (projetor, impressão, quadro).
-4. Título definitivo do workshop.
-5. Convenção de linguagem preferida ("pessoa autista" / "pessoa com TEA").
-6. Faixa etária preferida para a vinheta principal (sugestão: criança em idade pré-escolar ou escolar) e se deseja uma segunda vinheta (ex.: adolescente) como opção.
-7. Se haverá certificado, lista de presença ou avaliação de reação (afeta o checklist final).
-8. Se a palestrante deseja incluir alguma referência ou material próprio específico.
+**Pendências de referência:** ver `materiais/REFERENCIAS.md` §3 (código de ética do CFP, edições brasileiras de livros, detalhes 🟡).
 
 ## 14. Entregáveis e fluxo de trabalho
 
 | Etapa | Arquivo | Conteúdo | Status |
 |---|---|---|---|
-| 0 | `CORE.md` | Documento central | ✅ Proposta v0.1 |
-| 1 | `materiais/REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ⏳ Aguardando aprovação |
-| 2 | `materiais/PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ⏳ |
+| 0 | `CORE.md` | Documento central | ✅ v0.2 (aprovado) |
+| 1 | `materiais/REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ✅ v1.0 — aguardando revisão |
+| 2 | `materiais/PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ⏳ Próxima etapa |
 | 3 | `materiais/ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ⏳ |
 | 4 | `materiais/ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ |
 | 5 | `materiais/SLIDES.md` | Estrutura slide a slide, notas, referências | ⏳ |
