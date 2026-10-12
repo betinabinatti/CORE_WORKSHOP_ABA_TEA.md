@@ -2,8 +2,8 @@
 
 > Documento central do projeto. Todos os demais arquivos da pasta `workshop-aba-tea-lacc/` derivam deste arquivo e devem permanecer consistentes com ele. Qualquer alteração de escopo, cronograma, objetivos ou terminologia deve ser feita **primeiro aqui** e depois propagada.
 >
-> **Versão:** 0.2 — estrutura e cronograma aprovados; dados do evento atualizados; referências verificadas  
-> **Status:** etapas 1 a 3 (REFERENCIAS, PLANO_WORKSHOP, ATIVIDADE_PRATICA) concluídas; próximas etapas aguardam aprovação.
+> **Versão:** 1.0 — **aprovado pela palestrante** (inclui ajustes da análise de viabilidade, PLANO_WORKSHOP §14)  
+> **Status:** CORE e plano aprovados. Fluxo de revisão: 1. aprovação CORE/plano ✅ · 2. validação da bibliografia · 3. slides · 4. atividade prática · 5. roteiro de fala · 6. revisão e ensaio.
 
 ---
 
@@ -54,8 +54,8 @@ Ao final, os participantes deverão ser capazes de:
 | O2 | Diferenciar descrição topográfica de comportamento e análise funcional. |
 | O3 | Compreender antecedentes, comportamento e consequências, incluindo o papel das variáveis contextuais. |
 | O4 | Reconhecer a importância de avaliar a função do comportamento antes de planejar intervenções. |
-| O5 | Identificar estratégias baseadas em evidências que favoreçam comunicação funcional, aprendizagem, participação e autonomia. |
-| O6 | Analisar vinhetas clínicas e justificar escolhas de intervenção com base nos princípios apresentados. |
+| O5 | Identificar exemplos de estratégias baseadas em evidências que favoreçam comunicação funcional, aprendizagem, participação e autonomia, relacionando-as à função do comportamento. |
+| O6 | Analisar uma vinheta clínica, levantar hipóteses funcionais e justificar escolhas de avaliação e intervenção com base nos princípios apresentados. |
 | O7 | Reconhecer limites de atuação, individualização das intervenções e importância da supervisão clínica. |
 
 ## 5. Seleção de conteúdo (respeitando 105 min de atividade)
@@ -83,10 +83,10 @@ Princípio: **profundidade em poucos conceitos-chave** em vez de cobertura ampla
 | 9h30–9h40 | 10 min | **0. Abertura** | Apresentação da palestrante, objetivos, combinados; pergunta disparadora ("Uma criança grita quando a atividade muda. Por quê?") | Exposição + enquete de mão levantada | — |
 | 9h40–9h55 | 15 min | **1. TEA: conceitos e heterogeneidade** | Critérios do DSM-5-TR, níveis de suporte, heterogeneidade, coocorrências; neurodiversidade e implicações para objetivos terapêuticos | Exposição dialogada | O1 |
 | 9h55–10h20 | 25 min | **2. Fundamentos da ABA e análise funcional** | ABA como ciência aplicada (dimensões de Baer, Wolf & Risley); topografia × função; A–B–C; variáveis contextuais e operações motivadoras; reforçamento; hipóteses funcionais; **mini-exercício**: "mesma topografia, funções diferentes" | Exposição dialogada + exercício em duplas (5 min) | O2, O3, O4 |
-| 10h20–10h30 | 10 min | **3. Ponte ABA–TCC** | Aproximações e diferenças (pressupostos, unidade de análise, métodos, papel dos eventos privados); quando cada referencial é usado em TEA | Exposição + 1 pergunta de discussão | — (contextual) |
+| 10h20–10h30 | 10 min | **3. Ponte ABA–TCC** | Aproximações e diferenças (pressupostos, unidade de análise, métodos, papel dos eventos privados); quando cada referencial é usado em TEA | Exposição + 1 pergunta de discussão | Requisito de escopo (§7) — contextualização para a LACC |
 | 10h30–10h45 | 15 min | **Intervalo** | — | — | — |
 | 10h45–11h03 | 18 min | **4. Da função à intervenção** | Avaliação funcional (tipos e quem conduz); estratégias antecedentes; FCT e repertórios alternativos; estratégias naturalistas e generalização; ética, assentimento, individualização | Exposição dialogada com exemplos clínicos fictícios | O4, O5, O7 |
-| 11h03–11h23 | 20 min | **5. Atividade prática — vinheta clínica** | Grupos analisam vinheta: antecedentes, resposta, consequências, hipóteses funcionais, dados que faltam, estratégias de avaliação/intervenção (2 min de instruções + 10 min em grupo + 8 min de discussão comentada) | Pequenos grupos + plenária | O2–O7 |
+| 11h03–11h23 | 20 min | **5. Atividade prática — vinheta clínica** | Grupos analisam vinheta: antecedentes, resposta, consequências, hipóteses funcionais, dados que faltam, estratégias de avaliação/intervenção (2 min de instruções + 10 min em grupo — P1–P4 para todos, P5/P6/P7 em rodízio — + 8 min de discussão comentada) | Pequenos grupos + plenária | O2–O7 |
 | 11h23–11h30 | 7 min | **6. Síntese e encerramento** | 5 mensagens-chave; limites de atuação e supervisão; perguntas finais; referências para aprofundar | Síntese + perguntas | O7 |
 
 **Totais:** 105 min de atividade + 15 min de intervalo = **120 min**.
@@ -217,9 +217,9 @@ workshop-aba-tea-lacc/
 
 | Etapa | Arquivo | Conteúdo | Status |
 |---|---|---|---|
-| 0 | `CORE.md` | Documento central | ✅ v0.2 (aprovado) |
+| 0 | `CORE.md` | Documento central | ✅ v1.0 (aprovado) |
 | 1 | `REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ✅ v1.0 — aguardando revisão |
-| 2 | `PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ✅ v1.0 — aguardando revisão |
+| 2 | `PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ✅ v1.1 (aprovado) |
 | 3 | `ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ✅ v1.0 — aguardando revisão |
 | 4 | `ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ Próxima etapa |
 | 5 | `SLIDES.md` | Estrutura slide a slide, notas, referências | ⏳ |

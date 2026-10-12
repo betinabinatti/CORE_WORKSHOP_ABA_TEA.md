@@ -2,7 +2,7 @@
 
 > Vinhetas clínicas, instruções, perguntas e respostas comentadas. Deriva do [`CORE.md`](CORE.md) (§8, §10) e do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) (Blocos 2 e 5). Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md).
 >
-> **Versão:** 1.0  
+> **Versão:** 1.1 — perguntas redistribuídas (P1–P4 para todos; P5–P7 em rodízio), conforme PLANO_WORKSHOP §14  
 > **Todas as situações e personagens deste documento são fictícios** e foram construídos para fins didáticos **[EXEMPLO DIDÁTICO]**. Qualquer semelhança com casos reais é coincidência.
 
 ---
@@ -66,7 +66,9 @@
 ### B.1 Instruções (projetadas · 2 min)
 
 > **Grupos de 4–6 pessoas · 10 minutos**  
-> Leiam a vinheta e respondam ao roteiro de 7 perguntas.  
+> Leiam a vinheta.  
+> **Todos os grupos:** perguntas **1 a 4** (≈6 min).  
+> **Cada grupo, mais uma:** grupo 1 → P5 · grupo 2 → P6 · grupo 3 → P7 · grupo 4 → P5 … (≈4 min).  
 > Escolham uma pessoa para anotar e outra para apresentar.  
 > **Lembrete:** a vinheta permite levantar **hipóteses**, não concluir a função.
 
@@ -85,10 +87,14 @@
 
 ### B.3 Roteiro de perguntas (projetado)
 
+**Núcleo — todos os grupos**
+
 1. **Descrevam o comportamento** de forma observável (topografia), sem usar interpretações.
 2. Quais **antecedentes imediatos** e quais **variáveis contextuais** aparecem?
 3. Quais **consequências** seguem o comportamento?
 4. Quais **hipóteses funcionais** são plausíveis? (levantem pelo menos duas)
+**Rodízio — uma pergunta por grupo**
+
 5. Que **informações faltam**? Como poderiam ser obtidas, e por quem?
 6. Para cada hipótese, proponham **uma estratégia antecedente** e **um repertório alternativo a ensinar**.
 7. Que **cuidados éticos** este caso exige?
@@ -193,13 +199,17 @@
 
 | Tempo | Foco | Pergunta à turma |
 |---|---|---|
-| 1 min | Topografia (P1) | "Como vocês descreveram? Alguém usou 'birra' ou 'crise'? Por que evitar?" |
-| 2 min | Hipóteses (P4) | "Quantas hipóteses vocês levantaram? Que dado da vinheta mais ajudou a diferenciar?" (destacar o lanche) |
-| 2 min | Dados faltantes (P5) | "O que vocês precisariam saber para escolher entre H1 e H2?" |
-| 2 min | Estratégias (P6) | "Que estratégia muda dependendo da hipótese?" (destacar FCT: o *mesmo* procedimento ensina pedidos *diferentes*) |
-| 1 min | Ética e fechamento (P7) | Reler o aviso obrigatório e ligar à síntese |
+| Tempo | Quem fala | Foco | Pergunta / ação da palestrante |
+|---|---|---|---|
+| 1 min | Turma (qualquer grupo) | Topografia (P1) | "Como vocês descreveram? Alguém usou 'birra' ou 'crise'? Por que evitar?" |
+| 2 min | 2 grupos diferentes | Hipóteses (P4) | "Quantas hipóteses vocês levantaram? Que dado da vinheta mais ajudou a diferenciar?" (destacar o lanche; P2–P3 comentadas junto) |
+| 1,5 min | Um grupo de P5 | Dados faltantes | "O que vocês precisariam saber para escolher entre H1 e H2?" Outros grupos de P5 só complementam. |
+| 1,5 min | Um grupo de P6 | Estratégias | "Que estratégia muda dependendo da hipótese?" (destacar FCT: o *mesmo* procedimento ensina pedidos *diferentes*) |
+| 1,5 min | Um grupo de P7 | Ética | "Que cuidados vocês apontaram?" (destacar assentimento e o interesse por trens como recurso) |
+| 0,5 min | Palestrante | Fechamento | Reler o aviso obrigatório e ligar à síntese |
 
-**Se faltar tempo** (plenária de 6 min): manter hipóteses, dados faltantes e ética.
+**Se houver só 1 ou 2 grupos:** cada grupo responde P1–P4 + duas das perguntas 5–7; a palestrante comenta a pergunta restante.  
+**Se faltar tempo** (plenária de 6 min): manter hipóteses, dados faltantes e ética (1 min cada para P5–P7).
 
 ---
 
@@ -245,7 +255,7 @@
 | A3 | Quadro-resposta (revelado após as duplas) |
 | B1 | Instruções da vinheta + formação dos grupos + aviso obrigatório |
 | B2 | Texto da vinheta "Theo" (fonte grande; se necessário, em 2 slides) |
-| B3 | Roteiro das 7 perguntas (mantido projetado durante os 10 min em grupo, ou alternado com B2) |
+| B3 | Roteiro das perguntas: núcleo P1–P4 (todos) + rodízio P5/P6/P7 com a indicação de qual grupo responde qual (mantido projetado durante os 10 min em grupo, ou alternado com B2) |
 | B4 | Slide-síntese da plenária: Topografia → Contexto → Hipóteses → Dados faltantes → Estratégias → Ética |
 | C1 | Vinheta de reserva "Lara" + perguntas |
 

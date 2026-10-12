@@ -2,7 +2,7 @@
 
 > Plano pedagógico do workshop. Deriva do [`CORE.md`](CORE.md) v0.2. As referências seguem os códigos `[Rnn]` de [`REFERENCIAS.md`](REFERENCIAS.md).
 >
-> **Versão:** 1.0  
+> **Versão:** 1.1 — **aprovado pela palestrante** (ajustes da §14 aplicados)  
 > **Etiquetas (CORE §9):** **[EVIDÊNCIA]** · **[HIPÓTESE CLÍNICA]** · **[EXEMPLO DIDÁTICO]**
 
 ---
@@ -43,8 +43,8 @@ O workshop prioriza esse raciocínio em vez de cobrir muitos procedimentos. Tamb
 | O2 | Diferenciar descrição topográfica de comportamento e análise funcional. | No mini-exercício, separa "o que a criança fez" de "para que o comportamento parece servir". |
 | O3 | Compreender antecedentes, comportamento e consequências, incluindo o papel das variáveis contextuais. | Na vinheta, identifica antecedentes imediatos, variáveis contextuais e consequências. |
 | O4 | Reconhecer a importância de avaliar a função antes de planejar intervenções. | Justifica por que a mesma estratégia pode ajudar em uma função e piorar em outra. |
-| O5 | Identificar estratégias baseadas em evidências que favoreçam comunicação funcional, aprendizagem, participação e autonomia. | Propõe ao menos uma estratégia antecedente e uma de ensino de repertório alternativo coerentes com uma hipótese funcional. |
-| O6 | Analisar vinhetas clínicas e justificar escolhas de intervenção. | Na atividade, relaciona cada estratégia proposta a uma hipótese funcional e lista os dados que faltam. |
+| O5 | Identificar exemplos de estratégias baseadas em evidências que favoreçam comunicação funcional, aprendizagem, participação e autonomia, relacionando-as à função do comportamento. | Propõe ao menos uma estratégia antecedente e uma de ensino de repertório alternativo coerentes com uma hipótese funcional. |
+| O6 | Analisar uma vinheta clínica, levantar hipóteses funcionais e justificar escolhas de avaliação e intervenção com base nos princípios apresentados. | Na atividade, relaciona cada estratégia proposta a uma hipótese funcional e lista os dados que faltam. |
 | O7 | Reconhecer limites de atuação, individualização e importância da supervisão. | Identifica o que *não* pode ser concluído a partir da vinheta e quem deveria conduzir a avaliação. |
 
 ## 5. Conteúdo programático
@@ -98,7 +98,7 @@ O workshop prioriza esse raciocínio em vez de cobrir muitos procedimentos. Tamb
 
 ---
 
-### Bloco 3 — Ponte ABA–TCC (10h20–10h30 · 10 min) · contextual
+### Bloco 3 — Ponte ABA–TCC (10h20–10h30 · 10 min) · requisito de escopo (CORE §7)
 
 **Conteúdo** (CORE §7)
 1. **Aproximações:** compromisso empírico; alvos definidos operacionalmente e mudança medida; formulação individualizada; procedimentos derivados de princípios de aprendizagem em comum (reforçamento, exposição, modelação, treino de habilidades).
@@ -149,8 +149,8 @@ Durante o intervalo, deixar projetado o slide de "aquecimento" da atividade: *"A
 
 **Estrutura**
 - 2 min — instruções e leitura da vinheta (projetada).
-- 10 min — análise em grupos (4–6 pessoas).
-- 8 min — plenária com comentários da palestrante.
+- 10 min — análise em grupos (4–6 pessoas): **todos os grupos respondem P1–P4**; cada grupo recebe **uma** entre P5, P6 e P7, em rodízio (grupo 1 → P5, grupo 2 → P6, grupo 3 → P7, grupo 4 → P5…).
+- 8 min — plenária com comentários da palestrante; P5–P7 apresentadas pelos grupos responsáveis.
 
 **Vinheta principal (sinopse provisória; versão completa em `ATIVIDADE_PRATICA.md`)** [EXEMPLO DIDÁTICO]
 Criança autista de cerca de 6 anos, com fala funcional limitada, que grita e se joga no chão em momentos de transição de atividades preferidas para atividades de mesa. A vinheta inclui variáveis contextuais (ex.: sono, mudança de rotina) e reações dos adultos que variam entre as ocorrências, para permitir **mais de uma hipótese funcional**.
@@ -188,7 +188,7 @@ Criança autista de cerca de 6 anos, com fala funcional limitada, que grita e se
 | 9h30–9h40 | 10 | 0. Abertura | Exposição + pergunta disparadora | — | — |
 | 9h40–9h55 | 15 | 1. TEA | Exposição dialogada | O1 | R01–R07 |
 | 9h55–10h20 | 25 | 2. Fundamentos ABA e análise funcional | Exposição dialogada + mini-exercício em duplas | O2, O3, O4 | R10–R15, R22 |
-| 10h20–10h30 | 10 | 3. Ponte ABA–TCC | Exposição + quadro comparativo + 1 pergunta | — | R16–R19, R25 |
+| 10h20–10h30 | 10 | 3. Ponte ABA–TCC | Exposição + quadro comparativo + 1 pergunta | Requisito de escopo (CORE §7) | R16–R19, R25 |
 | 10h30–10h45 | 15 | Intervalo | — | — | — |
 | 10h45–11h03 | 18 | 4. Da função à intervenção | Exposição dialogada com exemplos | O4, O5, O7 | R11, R13–R15, R20–R30 |
 | 11h03–11h23 | 20 | 5. Atividade prática | Grupos + plenária | O2–O7 | R12, R14, R20 |
@@ -227,7 +227,7 @@ Criança autista de cerca de 6 anos, com fala funcional limitada, que grita e se
 
 Não há avaliação formal. A palestrante acompanha a aprendizagem por:
 - **Mini-exercício (B2):** as duplas identificam as três hipóteses funcionais? → O2, O3.
-- **Atividade (B5):** os grupos levantam ao menos duas hipóteses, apontam dados faltantes e relacionam cada estratégia a uma hipótese? → O3–O7.
+- **Atividade (B5):** todos os grupos levantam ao menos duas hipóteses (P4)? Os grupos de P5–P7 apontam dados faltantes, relacionam estratégias a hipóteses e identificam cuidados éticos? → O3–O7.
 - **Pergunta de checagem na síntese:** *"O que vocês não podem concluir a partir da vinheta?"* → O7.
 
 ⚠️ Uma avaliação de reação/satisfação depende da organização da LACC (ver CORE §13).
@@ -269,7 +269,7 @@ Não há avaliação formal. A palestrante acompanha a aprendizagem por:
 
 ## 14. Análise de viabilidade dos objetivos em duas horas
 
-> Revisão feita para a aprovação do CORE e do plano (etapa 1 do fluxo de revisão). As propostas de ajuste estão marcadas como **PROPOSTA** e só serão aplicadas após aprovação da palestrante.
+> Revisão feita para a aprovação do CORE e do plano (etapa 1 do fluxo de revisão). **As três propostas foram aprovadas pela palestrante e aplicadas** em CORE.md, neste plano e em ATIVIDADE_PRATICA.md.
 
 ### 14.1 Tempo dedicado a cada objetivo
 
@@ -293,7 +293,7 @@ Não há avaliação formal. A palestrante acompanha a aprendizagem por:
 4. **Bloco 3 (ABA–TCC)** não corresponde a um objetivo O1–O7. É um requisito do escopo (CORE §7), não um objetivo de aprendizagem. Isso é coerente, mas pode ser explicitado.
 5. **Início em um sábado às 9h30**: risco de atraso na chegada. A contingência de redução do B0/B3 (§10) cobre até 5 min.
 
-### 14.3 Propostas de ajuste (aguardando aprovação)
+### 14.3 Ajustes aprovados e aplicados
 
 **PROPOSTA 1 — Explicitar o nível de profundidade de O5 e O6** (redação dos objetivos definida pela palestrante; a alteração só será feita se aprovada):
 
