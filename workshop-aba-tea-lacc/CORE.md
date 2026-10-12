@@ -195,6 +195,7 @@ Regras:
 3. **Vinheta** — vinheta principal com criança autista em idade escolar inicial (≈6 anos), em contexto clínico/escolar; uma segunda vinheta curta (adolescente) fica **de reserva** para grupos que terminarem antes ou para estudo posterior.
 4. **Certificado, lista de presença, avaliação de reação** — fora do escopo destes materiais; o `CHECKLIST_FINAL.md` incluirá um item para confirmar com a organização da LACC.
 5. Prédio/sala na PUCRS — confirmar com a LACC (entra no checklist).
+6. **Vídeo de abertura da vinheta** (decisão da palestrante): gerar fora do projeto, com IA, a partir do roteiro em `ATIVIDADE_PRATICA.md` B.0; é opcional — a atividade funciona só com o texto.
 
 **Pendências de referência:** ver `REFERENCIAS.md` §3 (código de ética do CFP, edições brasileiras de livros, detalhes 🟡).
 

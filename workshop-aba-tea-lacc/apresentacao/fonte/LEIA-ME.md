@@ -8,4 +8,4 @@ python3 build.py <pasta com project/deck.json e project/slides> slides.html nota
 chrome --headless --no-pdf-header-footer --print-to-pdf=slides.pdf slides.html
 ```
 
-O conteúdo segue `SLIDES.md` v1.1 (com a vinheta do Theo dividida em 35 e 35b).
+O conteúdo segue `SLIDES.md` v1.1 (com a vinheta do Theo dividida em 35 e 35b e o slide do vídeo, s34v = S34a).

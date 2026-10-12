@@ -2,7 +2,7 @@
 
 > Estrutura slide a slide. Deriva do [`CORE.md`](CORE.md) v1.0, do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) v1.1 e da [`ATIVIDADE_PRATICA.md`](ATIVIDADE_PRATICA.md) v1.1. Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md) v2.0.
 >
-> **Versão:** 1.1 — S19, S36 e S37 alinhados à ATIVIDADE v1.2 · **Total:** 41 slides de apresentação + 2 de reserva + 3 de referências (apêndice)
+> **Versão:** 1.2 — acrescentado S34a (vídeo) · S19, S36 e S37 alinhados à ATIVIDADE v1.2 · **Total:** 42 slides de apresentação + 2 de reserva + referências (apêndice). O PDF gerado está em `apresentacao/`.
 
 ---
 
@@ -65,6 +65,7 @@ Cada slide tem:
 | S32 | Generalização precisa ser planejada | 4 | 1,5 | 10h57,5 |
 | S33 | Decidir bem é decidir com ética | 4 | 4 | 10h59 |
 | S34 | Atividade: instruções | 5 | 2 | 11h03 |
+| S34a | Vídeo: Theo, uma sessão (opcional) | 5 | (dentro dos 2 min de S34) | 11h04 |
 | S35 | Vinheta: Theo | 5 | 10* | 11h05 |
 | S36 | Roteiro de perguntas | 5 | (*) | 11h05 |
 | S37 | Plenária: do comportamento à decisão | 5 | 8 | 11h15 |
@@ -552,6 +553,18 @@ Cada slide tem:
 > ⚠️ **A vinheta permite levantar hipóteses — não concluir a função**
 
 **Notas:** numerar os grupos em voz alta antes de projetar a vinheta.
+
+---
+
+### S34a — Vídeo: Theo, uma sessão *(opcional)*
+**Na tela:**
+> **Theo: uma sessão** · vídeo de cerca de 25 s  
+> Enquanto assistem, observem: **Antes** · **Comportamento** · **Depois**  
+> *Vídeo gerado por IA · exemplo fictício · não representa uma criança real. Mostra um episódio; o padrão está na vinheta a seguir.*
+
+**Notas:** reproduzir o MP4 à parte (o PDF não toca vídeo), uma vez, dentro dos 2 min de instruções. Depois: "Vocês viram **um** episódio. Agora vejam o que a equipe registrou em quatro semanas." Sem vídeo, pular este slide. Roteiro e prompts em ATIVIDADE B.0.
+
+**Etiqueta:** [EXEMPLO DIDÁTICO]
 
 ---
 

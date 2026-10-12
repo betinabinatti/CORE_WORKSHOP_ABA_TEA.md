@@ -2,7 +2,7 @@
 
 > Vinhetas clínicas, instruções, perguntas e respostas comentadas. Deriva do [`CORE.md`](CORE.md) (§8, §10) e do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) (Blocos 2 e 5). Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md).
 >
-> **Versão:** 1.2 — revisão da etapa 4: perguntas reescritas para exigir raciocínio clínico (usar dados, prever, justificar, decidir), e não memorização; ver §E  
+> **Versão:** 1.3 — acrescentado vídeo de abertura opcional (B.0). Versão 1.2 — revisão da etapa 4: perguntas reescritas para exigir raciocínio clínico (usar dados, prever, justificar, decidir), e não memorização; ver §E  
 > **Todas as situações e personagens deste documento são fictícios** e foram construídos para fins didáticos **[EXEMPLO DIDÁTICO]**. Qualquer semelhança com casos reais é coincidência.
 
 ---
@@ -66,6 +66,36 @@
 ---
 
 ## B. Vinheta principal — "Theo" (Bloco 5)
+
+### B.0 Vídeo de abertura da vinheta (opcional, gerado por IA)
+
+> Decisão da palestrante: abrir a vinheta com um vídeo realista curto. O vídeo deve ser gerado **fora deste projeto**, numa ferramenta de vídeo por IA (ex.: Google Veo, OpenAI Sora, Runway, Kling). ⚠️ **Pendente:** gerar, revisar e salvar o arquivo MP4.
+
+**Função didática:** treinar a **observação** (pergunta 1: descrição observável; perguntas 2–3: antes e depois). O vídeo mostra **um único episódio**; os dados de padrão (12 sessões, lanche, casa, sono, troca de terapeuta, cartão) continuam no texto da vinheta (B.2).
+
+**Duração e formato:** cerca de 25 s, 4 tomadas, sem fala e sem música dramática; 16:9.
+
+**Texto na tela (início e fim):** "Vídeo gerado por IA · exemplo fictício · não representa uma criança real."
+
+**Prompts (em inglês, uma tomada por vez):**
+
+| Tomada | Duração | Prompt |
+|---|---|---|
+| 1 — Antes | 6 s | Realistic, soft natural light, child therapy room with a rug and a small table. A 6-year-old boy in a blue t-shirt sits on the rug, focused and happy, building wooden toy train tracks. A female therapist in her 30s, green cardigan, kneels beside him. Calm, warm atmosphere. Static medium shot. |
+| 2 — Antecedente | 5 s | Same room and characters. The therapist gently gathers the train tracks into a box and points to the small table with a worksheet, saying something calmly. The boy looks at the box. |
+| 3 — Comportamento | 8 s | Same characters. The boy shouts, drops to the rug and kicks the air while lying down. The therapist stays calm, kneeling at a respectful distance. Shown with restraint and dignity, no close-up of the face, no dramatic music. |
+| 4 — Consequência | 6 s | Same characters. After a moment, the therapist opens the box and places the train tracks back in front of the boy. He sits up and starts playing again. Static medium shot. |
+
+**Coerência com a vinheta:** o vídeo mostra **uma** das reações registradas no texto (devolver os trilhos). Isso é intencional: quem vê só o vídeo tende a concluir "acesso aos trilhos" (H1); o texto traz o lanche e as outras reações, que enfraquecem essa conclusão. Use isso na plenária: *"O vídeo sozinho sugeria uma função. O que mudou quando vocês leram os registros?"*
+
+**Cuidados antes de usar:**
+1. A ferramenta pode **recusar** cenas realistas de crianças em sofrimento. Alternativas: gravar com atores (adulto no papel da terapeuta; criança apenas com autorização dos responsáveis) ou usar animação.
+2. Revisar mãos, brinquedos e **continuidade** do personagem entre as tomadas; refazer tomadas com erros visíveis.
+3. Conferir que a cena não seja exagerada nem caricata (dignidade, CORE §10).
+4. Manter o aviso de exemplo fictício no início e no fim.
+5. O PDF não reproduz vídeo: deixar o MP4 aberto à parte no computador da sala e testar som/imagem antes (`CHECKLIST_FINAL.md`).
+
+**Uso em sala (dentro dos 2 min de instruções):** projetar o slide 34a ("observem: antes, comportamento, depois"), exibir o vídeo uma vez e dizer: *"Vocês viram **um** episódio. Agora vejam o que a equipe registrou em quatro semanas"*; então projetar a vinheta. **Se o vídeo não estiver disponível, pular o slide 34a:** a atividade funciona só com o texto.
 
 ### B.1 Instruções (projetadas · 2 min)
 
@@ -237,7 +267,7 @@ Se os dois cenários evocarem o comportamento, **H3 (sintetizada)** ganha força
 | 1,5 min | Um grupo de P5 | Distinguir hipóteses | "Que comparação vocês fariam, e o que esperariam ver em cada hipótese?" Outros grupos de P5 só complementam. |
 | 1,5 min | Um grupo de P6 | Estratégia e risco | "E se a hipótese estiver errada?" (destacar: errar pode **fortalecer** o comportamento; FCT ensina pedidos diferentes conforme a função) |
 | 1,5 min | Um grupo de P7 | Dilema | "O que vocês responderiam à mãe?" (destacar: o interesse por trens é recurso; retirar não ensina comunicação) |
-| 0,5 min | Palestrante | Fechamento | Reler o aviso obrigatório e ligar à síntese |
+| 0,5 min | Palestrante | Fechamento | Reler o aviso obrigatório e ligar à síntese. Se o vídeo foi usado: "O vídeo sozinho sugeria uma função. O que mudou com os registros?" |
 
 **Se houver só 1 ou 2 grupos:** cada grupo responde P1–P4 + duas das perguntas 5–7; a palestrante comenta a pergunta restante.  
 **Se faltar tempo** (plenária de 6 min): manter hipóteses, dados faltantes e ética (1 min cada para P5–P7).
@@ -296,6 +326,7 @@ Se os dois cenários evocarem o comportamento, **H3 (sintetizada)** ganha força
 | A2 | Três situações (S1, S2, S3) |
 | A3 | Quadro-resposta (revelado após as duplas) |
 | B1 | Instruções da vinheta + formação dos grupos + aviso obrigatório |
+| B1a | Slide do vídeo: "observem antes, comportamento, depois" + aviso de IA (vídeo MP4 à parte; §B.0) |
 | B2 | Texto da vinheta "Theo" (fonte grande; se necessário, em 2 slides) |
 | B3 | Roteiro das perguntas: núcleo P1–P4 (todos) + rodízio P5/P6/P7 com a indicação de qual grupo responde qual (mantido projetado durante os 10 min em grupo, ou alternado com B2) |
 | B5 | (Reserva) Desafio extra: dado novo (§B.6) |
