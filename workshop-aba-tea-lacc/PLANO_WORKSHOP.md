@@ -85,7 +85,7 @@ O workshop prioriza esse raciocínio em vez de cobrir muitos procedimentos. Tamb
 4. **Reforçamento** (≈3 min): positivo (adição) e negativo (remoção/adiamento); reforçamento definido pelo efeito, não pela intenção de quem reage. [EVIDÊNCIA] [R11]
 5. **Hipóteses funcionais mais estudadas** (≈3 min): acesso a atenção, acesso a itens/atividades, fuga/esquiva de demandas ou estímulos, reforçamento automático. Funções podem ser múltiplas ou sintetizadas. Ênfase: **são hipóteses a testar, não rótulos.** [EVIDÊNCIA] [R12, R13, R22]
 6. **Mini-exercício em duplas** (≈5 min) [EXEMPLO DIDÁTICO]: a mesma topografia ("joga os materiais no chão e chora") em três situações projetadas:
-   - (a) quando o adulto se afasta para atender outra criança e, depois, volta e conversa com ela;
+   - (a) quando a terapeuta se afasta para atender a mãe na porta e, depois, volta e conversa com a criança;
    - (b) quando recebe uma tarefa de escrita e a tarefa é retirada;
    - (c) quando o tablet é guardado e, após o choro, é devolvido.
 

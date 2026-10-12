@@ -3,7 +3,7 @@
 > Documento central do projeto. Todos os demais arquivos da pasta `workshop-aba-tea-lacc/` derivam deste arquivo e devem permanecer consistentes com ele. Qualquer alteração de escopo, cronograma, objetivos ou terminologia deve ser feita **primeiro aqui** e depois propagada.
 >
 > **Versão:** 0.2 — estrutura e cronograma aprovados; dados do evento atualizados; referências verificadas  
-> **Status:** etapas 1 (REFERENCIAS.md) e 2 (PLANO_WORKSHOP.md) concluídas; próximas etapas aguardam aprovação.
+> **Status:** etapas 1 a 3 (REFERENCIAS, PLANO_WORKSHOP, ATIVIDADE_PRATICA) concluídas; próximas etapas aguardam aprovação.
 
 ---
 
@@ -220,8 +220,8 @@ workshop-aba-tea-lacc/
 | 0 | `CORE.md` | Documento central | ✅ v0.2 (aprovado) |
 | 1 | `REFERENCIAS.md` | Bibliografia verificada (DOI/URL, status) | ✅ v1.0 — aguardando revisão |
 | 2 | `PLANO_WORKSHOP.md` | Objetivos, conteúdo, metodologia, cronograma | ✅ v1.0 — aguardando revisão |
-| 3 | `ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ⏳ Próxima etapa |
-| 4 | `ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ |
+| 3 | `ATIVIDADE_PRATICA.md` | Vinhetas, instruções, perguntas, respostas comentadas | ✅ v1.0 — aguardando revisão |
+| 4 | `ROTEIRO_FALA.md` | Roteiro por bloco, transições, perguntas | ⏳ Próxima etapa |
 | 5 | `SLIDES.md` | Estrutura slide a slide, notas, referências | ⏳ |
 | 6 | `CHECKLIST_FINAL.md` | Conferência de conteúdo, tempo, referências, materiais | ⏳ |
 
