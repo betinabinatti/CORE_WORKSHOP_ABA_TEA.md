@@ -558,11 +558,11 @@ Cada slide tem:
 
 ### S34a — Vídeo: Theo, uma sessão *(opcional)*
 **Na tela:**
-> **Theo: uma sessão** · vídeo de cerca de 25 s  
+> **Theo: uma sessão** · vídeo de cerca de 30 s  
 > Enquanto assistem, observem: **Antes** · **Comportamento** · **Depois**  
-> *Vídeo gerado por IA · exemplo fictício · não representa uma criança real. Mostra um episódio; o padrão está na vinheta a seguir.*
+> *Animação · exemplo fictício · não representa uma criança real. Mostra um episódio; o padrão está na vinheta a seguir.*
 
-**Notas:** reproduzir o MP4 à parte (o PDF não toca vídeo), uma vez, dentro dos 2 min de instruções. Depois: "Vocês viram **um** episódio. Agora vejam o que a equipe registrou em quatro semanas." Sem vídeo, pular este slide. Roteiro e prompts em ATIVIDADE B.0.
+**Notas:** reproduzir `apresentacao/Video_Theo_animacao.mp4` à parte (o PDF não toca vídeo), uma vez, dentro dos 2 min de instruções. Depois: "Vocês viram **um** episódio. Agora vejam o que a equipe registrou em quatro semanas." Sem vídeo, pular este slide. Roteiro e prompts em ATIVIDADE B.0.
 
 **Etiqueta:** [EXEMPLO DIDÁTICO]
 

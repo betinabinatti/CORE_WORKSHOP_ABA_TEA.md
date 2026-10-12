@@ -9,3 +9,5 @@ chrome --headless --no-pdf-header-footer --print-to-pdf=slides.pdf slides.html
 ```
 
 O conteúdo segue `SLIDES.md` v1.1 (com a vinheta do Theo dividida em 35 e 35b e o slide do vídeo, s34v = S34a).
+
+- `animacao.py`: gera `Video_Theo_animacao.mp4` (PIL + ffmpeg/libx264): `python3 animacao.py Video_Theo_animacao.mp4`.

@@ -2,7 +2,7 @@
 
 > Vinhetas clínicas, instruções, perguntas e respostas comentadas. Deriva do [`CORE.md`](CORE.md) (§8, §10) e do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) (Blocos 2 e 5). Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md).
 >
-> **Versão:** 1.3 — acrescentado vídeo de abertura opcional (B.0). Versão 1.2 — revisão da etapa 4: perguntas reescritas para exigir raciocínio clínico (usar dados, prever, justificar, decidir), e não memorização; ver §E  
+> **Versão:** 1.4 — vídeo animado pronto (`apresentacao/Video_Theo_animacao.mp4`). Versão 1.3 — acrescentado vídeo de abertura opcional (B.0). Versão 1.2 — revisão da etapa 4: perguntas reescritas para exigir raciocínio clínico (usar dados, prever, justificar, decidir), e não memorização; ver §E  
 > **Todas as situações e personagens deste documento são fictícios** e foram construídos para fins didáticos **[EXEMPLO DIDÁTICO]**. Qualquer semelhança com casos reais é coincidência.
 
 ---
@@ -67,13 +67,17 @@
 
 ## B. Vinheta principal — "Theo" (Bloco 5)
 
-### B.0 Vídeo de abertura da vinheta (opcional, gerado por IA)
+### B.0 Vídeo de abertura da vinheta (opcional)
 
-> Decisão da palestrante: abrir a vinheta com um vídeo realista curto. O vídeo deve ser gerado **fora deste projeto**, numa ferramenta de vídeo por IA (ex.: Google Veo, OpenAI Sora, Runway, Kling). ⚠️ **Pendente:** gerar, revisar e salvar o arquivo MP4.
+> Decisão da palestrante: abrir a vinheta com um vídeo curto.
+>
+> **Versão pronta (animada):** `apresentacao/Video_Theo_animacao.mp4` — 34 s, 1280×720, MP4/H.264 (abre no iPad). Ilustração simples, não realista: cartão de abertura ("observem: antes, o que ele faz, depois") → brincando com os trilhos → terapeuta guarda os trilhos e aponta a mesa ("Agora acabou. Vamos para a mesa.") → grita, se joga no chão e chuta o ar → terapeuta devolve os trilhos e ele volta a brincar → cartão final ("Isto foi um episódio. Agora vejam o que a equipe registrou em quatro semanas."). Selo "Animação · exemplo fictício" em todas as cenas. Gerada por script (`apresentacao/fonte/animacao.py`).
+>
+> **Versão realista (opcional):** se a palestrante quiser substituir a animação, gerar fora deste projeto numa ferramenta de vídeo por IA (ex.: Google Veo, OpenAI Sora, Runway, Kling), com os prompts abaixo, e trocar o aviso por "Vídeo gerado por IA · exemplo fictício".
 
 **Função didática:** treinar a **observação** (pergunta 1: descrição observável; perguntas 2–3: antes e depois). O vídeo mostra **um único episódio**; os dados de padrão (12 sessões, lanche, casa, sono, troca de terapeuta, cartão) continuam no texto da vinheta (B.2).
 
-**Duração e formato:** cerca de 25 s, 4 tomadas, sem fala e sem música dramática; 16:9.
+**Duração e formato:** versão animada com 34 s (incluindo cartões de abertura e fim); versão realista com cerca de 25 s, 4 tomadas, sem fala e sem música dramática; 16:9.
 
 **Texto na tela (início e fim):** "Vídeo gerado por IA · exemplo fictício · não representa uma criança real."
 

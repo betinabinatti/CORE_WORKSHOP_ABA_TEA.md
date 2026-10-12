@@ -150,7 +150,7 @@ Durante o intervalo, deixar projetado o slide de "aquecimento" da atividade: *"A
 ### Bloco 5 — Atividade prática: vinheta clínica (11h03–11h23 · 20 min) · O2–O7
 
 **Estrutura**
-- 2 min — instruções, vídeo opcional de cerca de 25 s (um episódio, gerado por IA; ATIVIDADE B.0) e leitura da vinheta (projetada).
+- 2 min — instruções, vídeo animado opcional de 34 s (um episódio; `apresentacao/Video_Theo_animacao.mp4`; ATIVIDADE B.0) e leitura da vinheta (projetada).
 - 10 min — análise em grupos (4–6 pessoas): **todos os grupos respondem P1–P4**; cada grupo recebe **uma** entre P5, P6 e P7, em rodízio (grupo 1 → P5, grupo 2 → P6, grupo 3 → P7, grupo 4 → P5…).
 - 8 min — plenária com comentários da palestrante; P5–P7 apresentadas pelos grupos responsáveis.
 
