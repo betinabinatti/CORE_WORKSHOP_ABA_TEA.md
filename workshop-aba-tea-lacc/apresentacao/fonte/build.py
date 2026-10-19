@@ -33,6 +33,6 @@ head = ('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta nam
         f'<style>{css}</style></head><body>')
 open(out_html, 'w', encoding='utf-8').write(head + '\n'.join(secs) + '</body></html>')
 if notes_html:
-    rows = ''.join(f'<h2>Slide {i+1} <small>({sid})</small></h2><p>{n}</p>' for i, (sid, n) in enumerate(notes))
+    rows = ''.join(f'<h2>Slide {i+1} <small>({sid})</small></h2><p>{n.replace(" || ", "<br><br>")}</p>' for i, (sid, n) in enumerate(notes))
     open(notes_html, 'w', encoding='utf-8').write('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>Notas</title><style>@page{size:A4;margin:18mm} body{font:12pt "Public Sans",Arial,sans-serif;color:#1F2A37} h1{font-family:"Source Serif 4",Georgia,serif} h2{font-size:13pt;margin:14pt 0 4pt;color:#2F5D8A} small{color:#5B6675;font-weight:400} p{margin:0;line-height:1.45}</style><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&family=Public+Sans:wght@400..700&display=swap"></head><body><h1>Workshop ABA e TEA — notas da palestrante</h1>' + rows + '</body></html>')
 print(len(secs), 'slides')
