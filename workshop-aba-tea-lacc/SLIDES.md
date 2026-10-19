@@ -2,7 +2,7 @@
 
 > Estrutura slide a slide. Deriva do [`CORE.md`](CORE.md) v1.0, do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) v1.1 e da [`ATIVIDADE_PRATICA.md`](ATIVIDADE_PRATICA.md) v1.1. Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md) v2.0.
 >
-> **Versão:** 1.3 — visual v2 (Montserrat, conteúdo centralizado). 1.2 — acrescentado S34a (vídeo) · S19, S36 e S37 alinhados à ATIVIDADE v1.2 · **Total:** 42 slides de apresentação + 2 de reserva + referências (apêndice). O PDF gerado está em `apresentacao/`.
+> **Versão:** 1.4 — slides de respostas após cada pergunta. 1.3 — visual v2 (Montserrat, conteúdo centralizado). 1.2 — acrescentado S34a (vídeo) · S19, S36 e S37 alinhados à ATIVIDADE v1.2 · **Total:** 42 slides de apresentação + 2 de reserva + referências (apêndice). O PDF gerado está em `apresentacao/`.
 
 ---
 
@@ -15,6 +15,10 @@ Cada slide tem:
 - **Notas da palestrante**: pontos para falar e cuidados. O texto completo da fala estará no `ROTEIRO_FALA.md`.
 - **Referência no slide**: rodapé com autor e ano. Só referências validadas (REFERENCIAS §6).
 - **Etiqueta**: [EVIDÊNCIA], [HIPÓTESE CLÍNICA] ou [EXEMPLO DIDÁTICO] (CORE §9). A etiqueta orienta a fala; não precisa aparecer na tela, exceto em exemplos fictícios, que sempre levam a indicação "Exemplo fictício".
+
+### Slides de respostas (v1.4)
+
+A pedido da palestrante, cada slide de pergunta ganhou um **slide de respostas logo em seguida**, para projetar depois que a turma responder: 12b (o que justifica intervir), 21b (desafio do mini-exercício), 26b (ABA × TCC), 34b (vídeo), 36a a 36e (vinheta, P1 a P7, antes da plenária), R1b e R2b (reservas). Conteúdo igual ao de `apresentacao/fonte/respostas.md`; gerados por `apresentacao/fonte/slides_respostas.py`. O PDF passa a ter 61 páginas. **Tempo:** os slides de respostas são mostrados dentro do tempo já previsto para cada discussão (sem alterar o cronograma).
 
 ### Diretrizes visuais (só projetor) — visual v2
 
