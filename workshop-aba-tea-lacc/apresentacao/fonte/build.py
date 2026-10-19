@@ -10,6 +10,9 @@ for sid in d['order']:
     m = re.search(r'<aside>(.*?)</aside>', s, re.S)
     notes.append((sid, m.group(1).strip() if m else ''))
     s = re.sub(r'<aside>.*?</aside>', '', s, flags=re.S)
+    # PDF: troca o vídeo do artefato pela imagem de capa local
+    s = s.replace('/_blob/b2ad19c5e4722e8674f79df638a19abb', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'video_capa.png'))
+    s = re.sub(r' data-video[-a-z]*="[^"]*"', '', s)
     def ic(m):
         name = m.group(1); style = m.group(2)
         col = re.search(r'color:([^;"]+)', style); col = col.group(1) if col else '#2F5D8A'
