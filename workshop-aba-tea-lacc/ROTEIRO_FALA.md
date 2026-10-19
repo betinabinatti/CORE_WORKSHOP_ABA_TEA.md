@@ -1,5 +1,3 @@
-# ROTEIRO_FALA.md
+# ROTEIRO_FALA
 
-> **Status:** estrutura aprovada; aguardando sua etapa conforme [`CORE.md`](CORE.md).
->
-> Este arquivo será desenvolvido na etapa correspondente do fluxo de trabalho (ver CORE.md, seção 14). Qualquer conteúdo aqui deve permanecer consistente com o CORE.md.
+> **Status:** adiado pela palestrante. As notas de cada slide (o que dizer e o tempo) estão em `apresentacao/Notas_da_palestrante.pdf` e em `SLIDES.md`. Se o roteiro completo for retomado, deve seguir o CORE.md e os pontos de controle de tempo do `CHECKLIST_FINAL.md` (C.2).
