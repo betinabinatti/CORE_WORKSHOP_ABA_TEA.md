@@ -71,19 +71,21 @@ Os objetivos são definidos com a família e, sempre que possível, com a própr
 
 ## Slides 35 a 37 — Vinheta do Theo
 
-### P1. Descrição do comportamento
+*(Numeração em uso nos slides: a pergunta "como distinguir as hipóteses" foi retirada.)*
+
+### 1. O que o Theo faz
 **Resposta:** grita, se joga no chão e chuta o ar, por cerca de 3 a 8 minutos, em 11 de 12 sessões.
 **Palavras a evitar:** "birra", "crise", "surto", "manha", "desregulado", porque supõem intenção ou estado interno que não observamos.
 
-### P2. Antes (antecedentes e contexto)
+### 2. O que acontece antes
 - **Antecedentes imediatos:** "agora acabou, vamos para a mesa"; retirada dos trilhos; apresentação da atividade de mesa.
 - **Contexto:** sono ruim, troca de terapeuta, previsibilidade da transição (episódios mais curtos com o cartão "primeiro, depois" e aviso, mas só em 3 sessões: é indício).
 - **Atenção:** sono e troca de terapeuta **não são funções**; mudam o valor das consequências.
 
-### P3. Depois (consequências)
+### 3. O que acontece depois
 Trilhos devolvidos "por mais cinco minutos" · atividade de mesa adiada · em algumas sessões, atividade mantida · possivelmente atenção durante o episódio. Como o comportamento às vezes "funciona" e às vezes não, ele tende a ser mais persistente.
 
-### P4. Hipóteses, com dado a favor e dado contra
+### 4. Explicações possíveis, com dado que ajuda e dado que atrapalha
 
 | Hipótese | A favor | Contra / falta saber |
 |---|---|---|
@@ -94,17 +96,7 @@ Trilhos devolvidos "por mais cinco minutos" · atividade de mesa adiada · em al
 
 **Raciocínio-chave:** o **lanche** é o dado que mais ajuda. Ele enfraquece H1 e torna H2 ou H3 mais plausíveis, mas não descarta H1.
 
-### P5. Como distinguir H1 de H2? (previsão)
-
-| Comparação | Se for H1 (trilhos) | Se for H2 (mesa) |
-|---|---|---|
-| Apresentar a mesa **sem guardar os trilhos** | Comportamento raro | Comportamento continua |
-| Guardar os trilhos e ir para **outra atividade preferida** | Comportamento continua | Comportamento raro |
-| Variar a dificuldade da tarefa de mesa | Pouca mudança | Mais episódios com tarefas difíceis |
-
-Se os dois cenários provocarem o comportamento, ganha força **H3**. **Quem faz:** a equipe, com profissional qualificado e supervisão (entrevista, registro A–B–C e, se necessário, análise funcional), não um estudante sozinho.
-
-### P6. Uma estratégia e "e se a hipótese estiver errada?"
+### 5. O que fazer, e se a explicação estiver errada?
 
 | Estratégia escolhida para… | Se a função real for outra |
 |---|---|
@@ -114,7 +106,7 @@ Se os dois cenários provocarem o comportamento, ganha força **H3**. **Quem faz
 
 **Ponto didático:** errar a hipótese não é só "não funcionar"; pode **ensinar o contrário** do que se quer.
 
-### P7. Dilema: "tirar os trilhos de vez?"
+### 6. Dilema: "tirar os trilhos de vez?"
 
 Resposta à mãe, **com acolhimento** (o pedido é compreensível) e argumentos:
 1. **O interesse não é o problema;** o problema é a transição e o que o comportamento produz. Os trens podem virar recurso de ensino (tarefas com tema de trem, trilhos como algo combinado para depois).

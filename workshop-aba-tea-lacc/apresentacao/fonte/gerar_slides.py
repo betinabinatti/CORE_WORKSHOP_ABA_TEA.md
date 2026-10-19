@@ -319,9 +319,9 @@ S["s33"] = content("s33", [title("Decidir bem é decidir com ética"), ul([
 
 S["s34"] = content("s34", [title("Atividade em grupos de 4 a 6 pessoas (10 min)"), cols([
     ("Todos os grupos", "Perguntas 1 a 4"),
-    ("Cada grupo, mais uma", "Grupo 1: P5. Grupo 2: P6. Grupo 3: P7. Grupo 4: P5, e assim por diante.")], size=38),
+    ("Cada grupo, mais uma", "Grupos 1, 3, 5…: pergunta 5. Grupos 2, 4, 6…: pergunta 6.")], size=38),
     para("Escolham quem anota e quem apresenta.", 36),
-    hl("A vinheta permite levantar hipóteses, não concluir a função.", 40)], bg=BG_ACT, gap=44)
+    hl("A história permite levantar hipóteses, não concluir a função.", 40)], bg=BG_ACT, gap=44)
 
 S["s34v"] = content("s34v", [title("Vídeo: Theo, uma sessão"),
     para("Enquanto assistem (cerca de 30 segundos), observem:"),
@@ -342,21 +342,20 @@ S["s35b"] = content("s35b", [title("Vinheta: Theo (continuação)", 58), ul([
     "Nas sessões em que a terapeuta <b>mostrou um cartão “primeiro trilhos, depois mesa” e avisou dois minutos antes</b>, os episódios foram <b>mais curtos</b> (registro em 3 sessões)."], 32),
     note("Exemplo fictício, parte 2 de 2", 26)], bg="#FFFFFF", gap=30)
 
-S["s36"] = content("s36", [title("Roteiro de perguntas", 56),
+S["s36"] = content("s36", [title("Perguntas para o grupo", 56),
     para("Todos os grupos (cerca de 6 min)", 32, TEAL, 700), ol([
-    "Descrevam o comportamento de forma que dois observadores concordariam. Que palavras evitaram, e por quê?",
-    "O que acontece antes? <i>(rápida)</i>",
-    "E depois? <i>(rápida)</i>",
-    "Duas hipóteses funcionais, com <b>um dado a favor e um contra</b> cada uma"], 29),
-    para("Rodízio, uma por grupo (cerca de 4 min)", 32, TEAL, 700),
-    para("<b>5.</b> Como distinguir H1 de H2? <b>O que esperariam ver</b> em cada uma?", 29),
-    para("<b>6.</b> Uma estratégia para uma hipótese. <b>E se a hipótese estiver errada?</b>", 29),
-    para("<b>7.</b> <b>Dilema:</b> a mãe pergunta se não é melhor <b>tirar os trilhos de vez</b>. O que responder?", 29)],
-    bg=BG_ACT, gap=20)
+    "O que o Theo faz? Descrevam só o que dá para ver e ouvir, sem palavras como “birra” ou “crise”.",
+    "O que acontece logo antes?",
+    "O que acontece logo depois?",
+    "Por que isso pode estar acontecendo? Deem duas explicações possíveis e, para cada uma, um dado da história que ajuda e um que atrapalha."], 31),
+    para("Cada grupo, mais uma (cerca de 4 min)", 32, TEAL, 700),
+    para("<b>5.</b> Escolham uma das explicações. O que vocês fariam para ajudar o Theo? E se essa explicação estiver errada, o que pode dar errado?", 31),
+    para("<b>6.</b> A mãe pergunta: “Não é melhor tirar os trilhos de vez?”. O que vocês responderiam?", 31)],
+    bg=BG_ACT, gap=22)
 
 S["s37"] = content("s37", [title("Plenária: do comportamento à decisão"),
-    hl("Topografia → Contexto → Hipóteses → Como distinguir → Estratégias → Ética", 40),
-    para("Uma vinheta <b>não permite concluir a função</b>. Ela permite levantar hipóteses que exigem avaliação adequada.", 38)],
+    hl("Comportamento → Antes e depois → Explicações possíveis → O que fazer → Cuidados éticos", 40),
+    para("Uma história <b>não permite concluir a função</b>. Ela permite levantar hipóteses que precisam de avaliação.", 38)],
     cite="Hanley et al. (2014)")
 
 S["s38"] = content("s38", [title("Cinco mensagens para levar"), ol([
@@ -396,7 +395,7 @@ def refs(sid, head, items):
 
 def old_refs(sid):
     s = open(os.path.join(SL, sid + ".html"), encoding="utf-8").read()
-    ps = re.findall(r'<p style="font-size:24px;line-height:1.35;color:#1F2A37">(.*?)</p>', s, re.S)
+    ps = re.findall(r'<p style="font-size:24px;line-height:1.(?:35|4);color:#(?:1F2A37|2E3A4A)">(.*?)</p>', s, re.S)
     return ps
 
 
@@ -408,6 +407,9 @@ for sid, head in (("a1", "Referências: TEA e neurodiversidade"), ("a2", "Refer�
         raise SystemExit(f"referências não encontradas em {sid}")
     S[sid] = refs(sid, head, items)
 
+ONLY = [x for x in os.environ.get('ONLY', '').split(',') if x]
 for sid, html in S.items():
+    if ONLY and sid not in ONLY:
+        continue
     open(os.path.join(SL, sid + ".html"), "w", encoding="utf-8").write(html)
 print(len(S), "slides gerados")

@@ -18,7 +18,7 @@ Cada slide tem:
 
 ### Slides de respostas (v1.4)
 
-A pedido da palestrante, cada slide de pergunta ganhou um **slide de respostas logo em seguida**, para projetar depois que a turma responder: 12b (o que justifica intervir), 21b (desafio do mini-exercício), 26b (ABA × TCC), 34b (vídeo), 36a a 36e (vinheta, P1 a P7, antes da plenária), R1b e R2b (reservas). Conteúdo igual ao de `apresentacao/fonte/respostas.md`; gerados por `apresentacao/fonte/slides_respostas.py`. O PDF passa a ter 61 páginas. **Tempo:** os slides de respostas são mostrados dentro do tempo já previsto para cada discussão (sem alterar o cronograma).
+A pedido da palestrante, cada slide de pergunta ganhou um **slide de respostas logo em seguida**, para projetar depois que a turma responder: 12b (o que justifica intervir), 21b (desafio do mini-exercício), 26b (ABA × TCC), 34b (vídeo), 36a a 36e (vinheta, P1 a P7, antes da plenária), R1b e R2b (reservas). Conteúdo igual ao de `apresentacao/fonte/respostas.md`; gerados por `apresentacao/fonte/slides_respostas.py`. O PDF passa a ter 60 páginas (v1.5: pergunta "como distinguir" retirada e linguagem do slide 36 simplificada). **Tempo:** os slides de respostas são mostrados dentro do tempo já previsto para cada discussão (sem alterar o cronograma).
 
 ### Diretrizes visuais (só projetor) — visual v2
 

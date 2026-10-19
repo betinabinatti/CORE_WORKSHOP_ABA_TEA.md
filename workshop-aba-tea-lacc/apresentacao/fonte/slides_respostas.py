@@ -15,7 +15,7 @@ SL = os.path.join(DECK, "project/slides")
 title, para, hl, note, ul, ol, cols, table, content = (ns[k] for k in (
     "title", "para", "hl", "note", "ul", "ol", "cols", "table", "content"))
 ns["LABEL"].update({"s12r": "12b", "s21r": "21b", "s26r": "26b", "s34r": "34b", "s36a": "36a", "s36b": "36b",
-                    "s36c": "36c", "s36d": "36d", "s36e": "36e", "r1r": "R1b", "r2r": "R2b"})
+                    "s36d": "36c", "s36e": "36d", "r1r": "R1b", "r2r": "R2b"})
 RB = "#FFFFFF"
 NOTA = "Slide de respostas: mostrar depois que a turma responder."
 
@@ -57,37 +57,29 @@ N["s34r"] = resp("s34r", [title("Respostas do vídeo"), cols([
     para("<b>E a terapeuta?</b> Devolver os trilhos faz o grito parar e alivia quem está com ele. Esse alívio também pode reforçar o comportamento do adulto, e o ciclo continua.", 34),
     note("Vocês viram um episódio. Os registros de quatro semanas, na vinheta, mudam essa leitura.")], gap=40)
 
-N["s36a"] = resp("s36a", [title("Respostas P1 a P3: o que aconteceu"), cols([
-    ("P1. Comportamento", "Grita, se joga no chão e chuta o ar, por 3 a 8 minutos, em 11 de 12 sessões. Sem “birra” ou “crise”: são interpretações."),
-    ("P2. Antes", "“Agora acabou, vamos para a mesa”; trilhos guardados; atividade de mesa. Contexto: sono ruim, troca de terapeuta."),
-    ("P3. Depois", "Às vezes os trilhos voltam, às vezes a mesa é adiada, às vezes a mesa é mantida.")], head_size=36, size=31, gap=56),
+N["s36a"] = resp("s36a", [title("Respostas 1 a 3: o que aconteceu"), cols([
+    ("1. O que ele faz", "Grita, se joga no chão e chuta o ar, por 3 a 8 minutos, em 11 de 12 sessões. Sem “birra” ou “crise”: são interpretações."),
+    ("2. Antes", "“Agora acabou, vamos para a mesa”; trilhos guardados; atividade de mesa. Contexto: sono ruim, troca de terapeuta."),
+    ("3. Depois", "Às vezes os trilhos voltam, às vezes a mesa é adiada, às vezes a mesa é mantida.")], head_size=36, size=31, gap=56),
     hl("Sono e troca de terapeuta são contexto, não função.", 38)])
 
-N["s36b"] = resp("s36b", [title("Respostas P4: hipóteses, com dados a favor e contra", 58), table([
-    ["Hipótese", "A favor", "Contra ou falta saber"],
-    ["<b>H1</b> Acesso aos trilhos", "Acontece quando os trilhos são guardados; às vezes eles voltam; em casa, ao desligar a TV",
+N["s36b"] = resp("s36b", [title("Respostas 4: explicações possíveis", 58), table([
+    ["Explicação", "Dado que ajuda", "Dado que atrapalha"],
+    ["<b>Quer os trilhos</b>", "Acontece quando os trilhos são guardados; às vezes eles voltam; em casa, ao desligar a TV",
      "No lanche os trilhos também foram guardados, e não houve episódio"],
-    ["<b>H2</b> Fuga da mesa", "Não acontece quando o próximo é o lanche; às vezes a mesa é adiada", "Em casa, o antecedente é o banho"],
-    ["<b>H3</b> As duas juntas", "Os dois antecedentes acontecem ao mesmo tempo", "Precisa de avaliação"],
-    ["<b>H4</b> Atenção", "Possível atenção durante o episódio", "Nenhum dado mostra isso"]], [22, 42, 36], 27),
-    hl("O lanche é a pista: enfraquece H1 e fortalece H2 ou H3.", 36)], gap=30)
+    ["<b>Foge da mesa</b>", "Não acontece quando o próximo é o lanche; às vezes a mesa é adiada", "Em casa, o antecedente é o banho"],
+    ["<b>As duas juntas</b>", "Os dois antecedentes acontecem ao mesmo tempo", "Precisa de avaliação"],
+    ["<b>Quer atenção</b>", "Possível atenção durante o episódio", "Nenhum dado mostra isso"]], [22, 42, 36], 27),
+    hl("O lanche é a pista: enfraquece “quer os trilhos” e fortalece “foge da mesa” (ou as duas juntas).", 34)], gap=30)
 
-N["s36c"] = resp("s36c", [title("Respostas P5: como distinguir as hipóteses"), table([
-    ["Se fizermos…", "Se for H1 (trilhos)", "Se for H2 (mesa)"],
-    ["Apresentar a mesa <b>sem guardar os trilhos</b>", "Comportamento raro", "Comportamento continua"],
-    ["Guardar os trilhos e ir para <b>outra atividade preferida</b>", "Comportamento continua", "Comportamento raro"],
-    ["Mudar a <b>dificuldade</b> da tarefa de mesa", "Pouca mudança", "Mais episódios com tarefas difíceis"]], [44, 28, 28], 31),
-    para("Se os dois cenários provocarem o comportamento, ganha força <b>H3</b>.", 34),
-    note("Quem testa: a equipe, com profissional qualificado e supervisão.")], gap=34)
+N["s36d"] = resp("s36d", [title("Respostas 5: o que fazer, e se a explicação estiver errada?", 56), table([
+    ["Se a explicação for…, podemos…", "Se a explicação estiver errada…"],
+    ["<b>Quer os trilhos:</b> “primeiro mesa, depois trem”; ensinar a pedir “mais trem” e a esperar", "Se na verdade ele foge da mesa: pouco efeito, a mesa continua difícil"],
+    ["<b>Foge da mesa:</b> tarefa mais curta, com tema de trens; ensinar a pedir “pausa”", "Se na verdade ele quer os trilhos: o comportamento na hora de guardar continua"],
+    ["Adiar a mesa quando ele grita, “para acalmar”", "<b>Piora:</b> ele aprende que gritar funciona"]], [52, 48], 30),
+    hl("Errar a explicação pode ensinar o contrário do que queremos.", 40)])
 
-N["s36d"] = resp("s36d", [title("Respostas P6: e se a hipótese estiver errada?"), table([
-    ["Estratégia pensada para…", "Se a função real for outra"],
-    ["<b>H1:</b> “primeiro mesa, depois trem”; ensinar a pedir “mais trem” e a esperar", "Se for H2, pouco efeito: a mesa continua difícil"],
-    ["<b>H2:</b> tarefa mais curta, com tema de trens; ensinar a pedir “pausa”", "Se for H1, o comportamento na hora de guardar os trilhos continua"],
-    ["Adiar a mesa quando ele grita, “para acalmar”", "<b>Fortalece</b> o comportamento: o grito continua funcionando"]], [52, 48], 30),
-    hl("Errar a hipótese pode ensinar o contrário do que queremos.", 40)])
-
-N["s36e"] = resp("s36e", [title("Respostas P7: tirar os trilhos de vez?"), ul([
+N["s36e"] = resp("s36e", [title("Respostas 6: tirar os trilhos de vez?"), ul([
     "<b>O interesse não é o problema:</b> o problema é a transição e o que o comportamento consegue",
     "<b>Tirar não ensina nada novo:</b> Theo continuaria sem saber pedir “mais” ou “pausa”",
     "<b>Pode não resolver:</b> se a função for fugir da mesa, o comportamento continua",
@@ -114,9 +106,9 @@ for sid, html in N.items():
 
 p = os.path.join(DECK, "project/deck.json")
 d = json.load(open(p, encoding="utf-8"))
-order = [x for x in d["order"] if x not in N]
+order = [x for x in d["order"] if x not in N and x != "s36c"]
 AFTER = {"s12": ["s12r"], "s21": ["s21r"], "s26": ["s26r"], "s34v": ["s34r"],
-         "s36": ["s36a", "s36b", "s36c", "s36d", "s36e"], "r1": ["r1r"], "r2": ["r2r"]}
+         "s36": ["s36a", "s36b", "s36d", "s36e"], "r1": ["r1r"], "r2": ["r2r"]}
 new = []
 for x in order:
     new.append(x)

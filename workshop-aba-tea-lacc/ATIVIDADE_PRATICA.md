@@ -2,7 +2,7 @@
 
 > Vinhetas clínicas, instruções, perguntas e respostas comentadas. Deriva do [`CORE.md`](CORE.md) (§8, §10) e do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) (Blocos 2 e 5). Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md).
 >
-> **Versão:** 1.5 — vídeo com terapeuta visivelmente perdida, música e efeitos sonoros. Versão 1.4 — vídeo animado pronto (`apresentacao/Video_Theo_animacao.mp4`). Versão 1.3 — acrescentado vídeo de abertura opcional (B.0). Versão 1.2 — revisão da etapa 4: perguntas reescritas para exigir raciocínio clínico (usar dados, prever, justificar, decidir), e não memorização; ver §E  
+> **Versão:** 1.6 — a palestrante retirou a antiga P5 (como distinguir as hipóteses) e pediu linguagem mais simples; a antiga P6 virou a pergunta 5 e a antiga P7, a pergunta 6 (ver B.3). Versão 1.5 — vídeo com terapeuta visivelmente perdida, música e efeitos sonoros. Versão 1.4 — vídeo animado pronto (`apresentacao/Video_Theo_animacao.mp4`). Versão 1.3 — acrescentado vídeo de abertura opcional (B.0). Versão 1.2 — revisão da etapa 4: perguntas reescritas para exigir raciocínio clínico (usar dados, prever, justificar, decidir), e não memorização; ver §E  
 > **Todas as situações e personagens deste documento são fictícios** e foram construídos para fins didáticos **[EXEMPLO DIDÁTICO]**. Qualquer semelhança com casos reais é coincidência.
 
 ---
@@ -127,7 +127,25 @@
 > - A mãe também conta que, nas semanas em que os episódios foram **mais longos**, Theo **dormiu mal** e houve **troca da terapeuta** que o atendia.
 > - Nas sessões em que a terapeuta **mostrou um cartão "primeiro trilhos → depois mesa" e avisou dois minutos antes**, os episódios foram **mais curtos** (registro em 3 sessões).
 
-### B.3 Roteiro de perguntas (projetado)
+### B.3a Versão em uso nos slides (v1.6)
+
+> Linguagem simplificada e pergunta "como distinguir as hipóteses" retirada. **Numeração em uso:**
+>
+> **Todos os grupos (cerca de 6 min)**
+> 1. O que o Theo faz? Descrevam só o que dá para ver e ouvir, sem palavras como "birra" ou "crise".
+> 2. O que acontece logo antes?
+> 3. O que acontece logo depois?
+> 4. Por que isso pode estar acontecendo? Deem duas explicações possíveis e, para cada uma, um dado da história que ajuda e um que atrapalha.
+>
+> **Cada grupo, mais uma (cerca de 4 min)** — grupos 1, 3, 5…: pergunta 5; grupos 2, 4, 6…: pergunta 6
+> 5. Escolham uma das explicações. O que vocês fariam para ajudar o Theo? E se essa explicação estiver errada, o que pode dar errado? *(respostas: "Pergunta 6" de B.4)*
+> 6. A mãe pergunta: "Não é melhor tirar os trilhos de vez?". O que vocês responderiam? *(respostas: "Pergunta 7" de B.4)*
+>
+> A "Pergunta 5" de B.4 (como distinguir) fica como material de apoio para a palestrante, sem uso em sala.
+>
+> **Plenária (8 min):** comportamento (1 min) · antes e depois (1 min) · explicações possíveis (2 min, destacar o lanche) · pergunta 5 (2 min) · pergunta 6 (1,5 min) · fechamento (0,5 min).
+
+### B.3 Roteiro de perguntas (versão anterior, v1.5)
 
 **Núcleo — todos os grupos (≈6 min)**
 
