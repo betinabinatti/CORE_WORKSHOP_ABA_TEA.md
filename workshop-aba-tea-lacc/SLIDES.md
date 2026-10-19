@@ -2,7 +2,7 @@
 
 > Estrutura slide a slide. Deriva do [`CORE.md`](CORE.md) v1.0, do [`PLANO_WORKSHOP.md`](PLANO_WORKSHOP.md) v1.1 e da [`ATIVIDADE_PRATICA.md`](ATIVIDADE_PRATICA.md) v1.1. Referências pelos códigos de [`REFERENCIAS.md`](REFERENCIAS.md) v2.0.
 >
-> **Versão:** 1.2 — acrescentado S34a (vídeo) · S19, S36 e S37 alinhados à ATIVIDADE v1.2 · **Total:** 42 slides de apresentação + 2 de reserva + referências (apêndice). O PDF gerado está em `apresentacao/`.
+> **Versão:** 1.3 — visual v2 (Montserrat, conteúdo centralizado). 1.2 — acrescentado S34a (vídeo) · S19, S36 e S37 alinhados à ATIVIDADE v1.2 · **Total:** 42 slides de apresentação + 2 de reserva + referências (apêndice). O PDF gerado está em `apresentacao/`.
 
 ---
 
@@ -16,14 +16,18 @@ Cada slide tem:
 - **Referência no slide**: rodapé com autor e ano. Só referências validadas (REFERENCIAS §6).
 - **Etiqueta**: [EVIDÊNCIA], [HIPÓTESE CLÍNICA] ou [EXEMPLO DIDÁTICO] (CORE §9). A etiqueta orienta a fala; não precisa aparecer na tela, exceto em exemplos fictícios, que sempre levam a indicação "Exemplo fictício".
 
-### Diretrizes visuais (só projetor)
+### Diretrizes visuais (só projetor) — visual v2
 
-- Fonte mínima de 28 pt no corpo e 40 pt nos títulos; no máximo ≈ 30 palavras por slide (exceto vinhetas).
-- Alto contraste (texto escuro sobre fundo claro); testar no projetor da sala (`CHECKLIST_FINAL.md`).
-- **Não usar fotos de crianças reais** nem bancos de imagem que estereotipem pessoas autistas. Preferir ícones simples e esquemas.
-- Evitar o símbolo de quebra-cabeça: é rejeitado por parte da comunidade autista. *(Escolha de design coerente com a linguagem adotada no CORE §10; não é uma afirmação científica.)*
-- Rodapé de referência em fonte menor (≈ 18 pt), sempre presente quando o slide traz [EVIDÊNCIA].
-- Exemplos fictícios com selo visual "Exemplo fictício".
+> Revisado a pedido da palestrante: conteúdo centralizado na página e visual de apresentação comum, sem "cara de IA".
+
+- Uma só fonte: **Montserrat** (títulos em negrito 66 px; texto 34–44 px).
+- Fundo branco, faixa vertical azul-petróleo à esquerda; slides de pergunta e de intervalo em fundo inteiro (azul-escuro ou azul-petróleo), com texto centralizado.
+- Conteúdo **centralizado verticalmente** em todas as páginas.
+- Tópicos com marcadores comuns; sem caixas arredondadas, etiquetas em maiúsculas no topo ou separadores "·".
+- Exemplos fictícios indicados em itálico cinza ("Exemplo fictício").
+- Rodapé: referência à esquerda e número da página à direita.
+- Não usar fotos de crianças reais nem o símbolo de quebra-cabeça.
+- Gerado por `apresentacao/fonte/gerar_slides.py`.
 
 ---
 

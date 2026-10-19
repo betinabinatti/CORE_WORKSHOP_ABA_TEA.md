@@ -101,13 +101,9 @@
     }
   },
   "faces": {
-    "source-serif-4": {
-      "family": "Source Serif 4",
-      "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"
-    },
-    "public-sans": {
-      "family": "Public Sans",
-      "href": "https://fonts.googleapis.com/css2?family=Public+Sans:wght@400..700&display=swap"
+    "montserrat": {
+      "family": "Montserrat",
+      "href": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400..800&display=swap"
     }
   },
   "designSystems": []

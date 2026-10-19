@@ -29,7 +29,7 @@ table { border-collapse: collapse }
 """
 head = ('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">'
         f'<title>{d["title"]}</title>'
-        '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&family=Public+Sans:wght@400..700&display=swap">'
+        '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400..800&display=swap">'
         f'<style>{css}</style></head><body>')
 open(out_html, 'w', encoding='utf-8').write(head + '\n'.join(secs) + '</body></html>')
 if notes_html:
