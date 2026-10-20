@@ -86,20 +86,20 @@ N["s36e"] = resp("s36e", [title("Respostas 6: tirar os trilhos de vez?"), ul([
     "<b>Os trens podem ser recurso:</b> tarefas com tema de trem, trilhos combinados para depois"], 34),
     hl("Acolher a família e decidir junto, com plano para casa e supervisão.", 38)])
 
-N["r1r"] = resp("r1r", [title("Respostas: Lara"), table([
+N["r1r"] = resp("r1r", [title("Respostas: a história da Lara"), table([
     ["Pergunta", "Resposta"],
-    ["Comportamento", "Coloca o capuz, abaixa a cabeça e sai da sala sem avisar, nos trabalhos em grupo"],
-    ["Hipótese principal", "Fuga ou esquiva do barulho e da interação; ir para a biblioteca pode reforçar a saída"],
-    ["ABA × TCC", "ABA: em que condições ela sai e o que isso produz. TCC: que pensamentos e crenças ela tem sobre falar em grupo"],
-    ["Proposta da escola", "Alivia agora, mas pode reforçar a esquiva; só como adaptação temporária, combinada com Lara"],
-    ["Alternativas", "Lugar mais silencioso ou protetor auricular (se ela quiser), grupos menores, papel definido, forma combinada de pedir pausa"]],
-    [26, 74], 28),
-    note("O capuz, em si, não é alvo de intervenção.", 28)], gap=30)
+    ["1. O que ela faz", "Coloca o capuz, abaixa a cabeça e sai da sala sem avisar"],
+    ["2. Antes e depois", "Antes: trabalho em grupo numa sala barulhenta. Depois: sai do grupo e vai para a biblioteca"],
+    ["3. Explicações possíveis", "Fugir do barulho; fugir da conversa em grupo (medo de errar); as duas juntas. Ir para a biblioteca pode reforçar a saída"],
+    ["4. Sempre sozinha na biblioteca?", "Alivia agora, mas pode reforçar a fuga e tirar chances de participar. Só serve como algo temporário, combinado com ela"],
+    ["4. O que propor no lugar", "Lugar mais silencioso ou protetor de ouvido (se ela quiser), grupo menor, um papel definido no grupo e um jeito combinado de pedir pausa"]],
+    [30, 70], 29),
+    note("O capuz, em si, não é problema a eliminar. Decidir junto com a Lara.", 28)], gap=30)
 
 N["r2r"] = resp("r2r", [title("Respostas: o dado novo"), cols([
-    ("O que muda", "Enfraquece H2: a mesa sozinha quase não provocou o comportamento. Fortalece H1 ou H3: guardar os trilhos parece importante."),
-    ("O que não muda", "Ainda não dá para concluir a função: são só 4 sessões, sem controle de sono, terapeuta ou tipo de tarefa.")], size=36),
-    hl("É mais um indício. O próximo passo é avaliação sistemática, com supervisão.", 38)])
+    ("O que muda", "Fica mais forte a explicação “quer os trilhos” (ou as duas juntas): sem guardar os trilhos, quase não houve episódio. “Foge da mesa” fica mais fraca."),
+    ("O que não muda", "Ainda não dá para ter certeza: são só 4 sessões, sem controle de sono, terapeuta ou tipo de tarefa.")], size=36),
+    hl("É mais uma pista. O próximo passo é uma avaliação organizada, com supervisão.", 38)])
 
 for sid, html in N.items():
     open(os.path.join(SL, sid + ".html"), "w", encoding="utf-8").write(html)

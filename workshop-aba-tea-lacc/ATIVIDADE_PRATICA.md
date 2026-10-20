@@ -322,7 +322,16 @@ Se os dois cenários evocarem o comportamento, **H3 (sintetizada)** ganha força
 >
 > Em atividades individuais, Lara participa e tira boas notas. Ela contou à psicóloga escolar que "o barulho é demais" e que "sempre fala alguma coisa errada nos grupos".
 
-### C.2 Perguntas
+### C.2a Versão em uso nos slides (v1.7, linguagem simplificada)
+
+> 1. O que a Lara faz? Descrevam só o que dá para ver e ouvir.
+> 2. O que acontece logo antes? E logo depois?
+> 3. Por que isso pode estar acontecendo? Deem duas explicações possíveis.
+> 4. A escola quer que a Lara faça todos os trabalhos sozinha, na biblioteca. Isso ajuda ou atrapalha? O que vocês proporiam no lugar?
+>
+> A pergunta ABA × TCC saiu da reserva porque o mesmo caso já é discutido no slide 26.
+
+### C.2 Perguntas (versão anterior)
 
 1. Descrevam o comportamento de forma observável.
 2. Que antecedentes e variáveis contextuais aparecem?

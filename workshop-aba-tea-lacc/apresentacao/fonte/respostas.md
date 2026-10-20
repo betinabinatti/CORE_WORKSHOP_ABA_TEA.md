@@ -121,16 +121,19 @@ Resposta à mãe, **com acolhimento** (o pedido é compreensível) e argumentos:
 
 **A função do comportamento.** A vinheta permite **levantar hipóteses**; concluir exige avaliação adequada, mais dados e supervisão. Também não dá para concluir que uma estratégia vai funcionar antes de testá-la com dados.
 
-## Reserva R1 — Vinheta da Lara
+## Reserva R1 — A história da Lara
 
-- **Descrição:** coloca o capuz, abaixa a cabeça e sai da sala sem avisar durante trabalhos em grupo.
-- **Antecedentes e contexto:** trabalho em grupo, sala barulhenta, exigência de interação social; nas atividades individuais isso não acontece.
-- **Hipótese principal:** **fuga ou esquiva** do barulho e/ou da interação social. Ir para a biblioteca pode, sem querer, reforçar a saída (e a biblioteca pode ser agradável: silêncio, livros).
-- **ABA × TCC:** a ABA pergunta em que condições ela sai e o que isso produz; a TCC pergunta que pensamentos e crenças ela tem sobre falar em grupo. Para ansiedade, a TCC adaptada para autismo tem evidência em ensaio clínico com crianças de 7 a 13 anos (Lara tem 14: generalizar com cautela).
-- **Proposta da escola (trabalhar sempre sozinha na biblioteca):** a curto prazo reduz o desconforto; a longo prazo pode **reforçar a esquiva** e tirar oportunidades de participar. Pode ser uma adaptação temporária, se combinada com Lara e com plano de volta gradual.
-- **Alternativas:** lugar mais silencioso ou protetor auricular (se ela quiser), grupos menores, papel definido no grupo, uma **forma combinada de pedir pausa** em vez de sair sem avisar, e envolver Lara nas decisões. O capuz, em si, não é alvo de intervenção.
+| Pergunta | Resposta |
+|---|---|
+| 1. O que a Lara faz? | Coloca o capuz, abaixa a cabeça e sai da sala sem avisar |
+| 2. O que acontece antes e depois? | Antes: trabalho em grupo numa sala barulhenta. Depois: sai do grupo e vai para a biblioteca |
+| 3. Explicações possíveis | Fugir do barulho; fugir da conversa em grupo (medo de errar); as duas juntas. Ir para a biblioteca pode reforçar a saída |
+| 4. Sempre sozinha na biblioteca? | Alivia agora, mas pode reforçar a fuga e tirar chances de participar. Só serve como algo temporário, combinado com ela |
+| 4. O que propor no lugar | Lugar mais silencioso ou protetor de ouvido (se ela quiser), grupo menor, papel definido no grupo e um jeito combinado de pedir pausa |
 
-## Reserva R2 — Dado novo: "Como esse dado muda as hipóteses? Ele permite concluir a função?"
+O capuz, em si, não é problema a eliminar. A comparação ABA × TCC com este caso já foi feita no slide 26.
 
-- **Muda:** enfraquece **H2** (a mesa sozinha quase não provocou o comportamento) e fortalece **H1 ou H3** (guardar os trilhos parece importante).
-- **Não permite concluir:** são 4 sessões, sem controle de outras variáveis (sono, terapeuta, tipo de tarefa). É mais um indício. O próximo passo é avaliação sistemática, com supervisão.
+## Reserva R2 — Dado novo: "Qual explicação fica mais forte? Já dá para ter certeza?"
+
+- **Mais forte:** "quer os trilhos" (ou as duas juntas): sem guardar os trilhos, quase não houve episódio. "Foge da mesa" fica mais fraca.
+- **Certeza, ainda não:** são só 4 sessões, sem controle de sono, terapeuta ou tipo de tarefa. É mais uma pista; o próximo passo é uma avaliação organizada, com supervisão.

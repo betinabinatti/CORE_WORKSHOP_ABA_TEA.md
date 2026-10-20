@@ -375,18 +375,18 @@ S["s40"] = content("s40", [title("Para aprofundar"),
 
 S["s41"] = statement("s41", "Obrigada!", sub="Betina Binatti", small="Workshop ABA e TEA, LACC, PUCRS, 24 de outubro de 2026", main_size=150)
 
-S["r1"] = content("r1", [title("Reserva: vinheta da Lara", 54),
-    para("Lara tem 14 anos, é autista e se comunica oralmente com fluência. Gosta de desenho e de astronomia. Na escola, nos últimos dois meses, quando a professora propõe <b>trabalhos em grupo</b> na sala (que costuma ficar barulhenta), Lara <b>coloca o capuz, abaixa a cabeça e, às vezes, sai da sala</b> sem avisar. Quando sai, é encaminhada à coordenação e passa o restante da aula na biblioteca. Em atividades individuais, participa e tira boas notas. Contou à psicóloga escolar que “o barulho é demais” e que “sempre fala alguma coisa errada nos grupos”.", 28),
-    ol(["Descrevam o comportamento de forma observável. Quais são os antecedentes, o contexto e as hipóteses funcionais?",
-        "O que um analista do comportamento e um terapeuta cognitivo-comportamental perguntariam primeiro?",
-        "A escola propõe que Lara faça todos os trabalhos sozinha, na biblioteca. Que efeito isso teria a curto e a longo prazo? Que alternativa aumentaria a participação sem ensinar que sair sem avisar é a única forma de conseguir uma pausa?"], 26),
-    note("Exemplo fictício", 24)], bg=BG_ACT, gap=24)
+S["r1"] = content("r1", [title("Reserva: a história da Lara", 54),
+    para("Lara tem 14 anos, é autista e fala com fluência. Gosta de desenho e de astronomia. Nos últimos dois meses, quando a professora propõe <b>trabalho em grupo</b> numa sala barulhenta, Lara <b>coloca o capuz, abaixa a cabeça e, às vezes, sai da sala sem avisar</b>. Quando sai, é levada à coordenação e passa o resto da aula na biblioteca. Nas atividades individuais, participa e tira boas notas. Ela disse à psicóloga da escola: “o barulho é demais” e “sempre falo alguma coisa errada nos grupos”.", 30),
+    ol(["O que a Lara faz? Descrevam só o que dá para ver e ouvir.",
+        "O que acontece logo antes? E logo depois?",
+        "Por que isso pode estar acontecendo? Deem duas explicações possíveis.",
+        "A escola quer que a Lara faça todos os trabalhos sozinha, na biblioteca. Isso ajuda ou atrapalha? O que vocês proporiam no lugar?"], 30),
+    note("Exemplo fictício", 24)], bg=BG_ACT, gap=26)
 
 S["r2"] = content("r2", [title("Reserva: um dado novo sobre Theo"),
-    para("Na semana seguinte, em 4 sessões, a terapeuta apresentou a atividade de mesa <b>sem guardar os trilhos</b> (ficaram ao lado, e Theo poderia voltar a eles ao terminar). Em <b>3 dessas sessões</b>, Theo não gritou nem se jogou no chão.", 38),
-    hl("Como esse dado muda a força de cada hipótese? Ele permite concluir a função?", 40), note("Exemplo fictício")],
+    para("Na semana seguinte, em 4 sessões, a terapeuta apresentou a atividade de mesa <b>sem guardar os trilhos</b> (eles ficaram ao lado, e Theo poderia voltar a eles ao terminar). Em <b>3 dessas sessões</b>, Theo não gritou nem se jogou no chão.", 38),
+    hl("Com esse dado, qual explicação fica mais forte? Já dá para ter certeza?", 40), note("Exemplo fictício")],
     bg=BG_ACT, gap=44)
-
 
 def refs(sid, head, items):
     blocks = [title(head, 52)] + [f'<p style="font-size:24px;line-height:1.4;color:{TEXT}">{i}</p>' for i in items]
