@@ -58,6 +58,7 @@
     "s39",
     "s40",
     "s41",
+    "r1v",
     "r1",
     "r1r",
     "r2",
@@ -103,7 +104,7 @@
     },
     "res": {
       "description": "Slides de reserva para grupos que terminarem antes",
-      "start": "r1"
+      "start": "r1v"
     },
     "ap": {
       "description": "Apêndice: referências completas",

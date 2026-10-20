@@ -121,6 +121,14 @@ Resposta à mãe, **com acolhimento** (o pedido é compreensível) e argumentos:
 
 **A função do comportamento.** A vinheta permite **levantar hipóteses**; concluir exige avaliação adequada, mais dados e supervisão. Também não dá para concluir que uma estratégia vai funcionar antes de testá-la com dados.
 
+## Reserva R1a — Vídeo da Lara: "O que acontece antes? O que ela faz? O que acontece depois?"
+
+| | Resposta |
+|---|---|
+| **Antes** | A professora propõe trabalho em grupo; os colegas se juntam e a sala fica barulhenta |
+| **O que ela faz** | Coloca o capuz, abaixa a cabeça, levanta e sai da sala sem avisar |
+| **Depois** | Fica sozinha e tranquila na biblioteca, desenhando: o barulho e o grupo acabam para ela |
+
 ## Reserva R1 — A história da Lara
 
 | Pergunta | Resposta |

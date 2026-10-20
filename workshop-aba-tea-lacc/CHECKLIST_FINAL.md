@@ -157,9 +157,10 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 
 | Arquivo | Uso |
 |---|---|
-| `apresentacao/Apresentacao_Workshop_ABA_TEA.pdf` | Apresentação (60 páginas: slides do workshop com os slides de respostas após cada pergunta, 2 de reserva com respostas e 5 de referências) |
+| `apresentacao/Apresentacao_Workshop_ABA_TEA.pdf` | Apresentação (61 páginas: slides do workshop com os slides de respostas após cada pergunta, 2 de reserva com respostas e 5 de referências) |
 | `apresentacao/Notas_da_palestrante.pdf` | O que dizer e o tempo de cada slide |
-| `apresentacao/Video_Theo_animacao.mp4` | Vídeo da vinheta (34 s, com som) |
+| `apresentacao/Video_Theo_animacao.mp4` | Vídeo da vinheta do Theo (34 s, com som) |
+| `apresentacao/Video_Lara_animacao.mp4` | Vídeo da reserva da Lara (32 s, com som) |
 | `apresentacao/Respostas_das_perguntas.pdf` | Respostas esperadas de todas as perguntas feitas nos slides (fonte em `apresentacao/fonte/respostas.md`) |
 | `ATIVIDADE_PRATICA.md` | Vinhetas, perguntas, respostas comentadas, critério de raciocínio, roteiro do vídeo |
 | `REFERENCIAS.md` | Bibliografia verificada e limites do que cada fonte sustenta |

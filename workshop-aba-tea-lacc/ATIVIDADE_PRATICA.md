@@ -322,6 +322,10 @@ Se os dois cenários evocarem o comportamento, **H3 (sintetizada)** ganha força
 >
 > Em atividades individuais, Lara participa e tira boas notas. Ela contou à psicóloga escolar que "o barulho é demais" e que "sempre fala alguma coisa errada nos grupos".
 
+### C.0 Vídeo da Lara (opcional)
+
+`apresentacao/Video_Lara_animacao.mp4` — 32 s, animação ilustrada com som (música, conversa de fundo dos colegas, risadas, cadeira, passos, porta e silêncio da biblioteca). Mostra **um** episódio: Lara desenha tranquila → a professora propõe trabalho em grupo e a sala fica barulhenta → ela coloca o capuz, abaixa a cabeça e sai sem avisar → desenha tranquila na biblioteca. Selo "Animação · exemplo fictício" em todas as cenas. No artefato, fica no slide R1a (antes da história). **Respostas:** antes = trabalho em grupo e barulho; o que ela faz = capuz, cabeça baixa, sai sem avisar; depois = fica sozinha e tranquila na biblioteca (o barulho e o grupo acabam para ela).
+
 ### C.2a Versão em uso nos slides (v1.7, linguagem simplificada)
 
 > 1. O que a Lara faz? Descrevam só o que dá para ver e ouvir.

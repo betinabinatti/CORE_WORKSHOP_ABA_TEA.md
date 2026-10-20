@@ -12,6 +12,7 @@ for sid in d['order']:
     s = re.sub(r'<aside>.*?</aside>', '', s, flags=re.S)
     # PDF: troca o vídeo do artefato pela imagem de capa local
     s = s.replace('/_blob/b2ad19c5e4722e8674f79df638a19abb', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'video_capa.png'))
+    s = s.replace('/_blob/d9116fe981a9ce669f0fddba86863cd9', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lara_capa.png'))
     s = re.sub(r' data-video[-a-z]*="[^"]*"', '', s)
     def ic(m):
         name = m.group(1); style = m.group(2)
