@@ -137,7 +137,7 @@ Resposta à mãe, **com acolhimento** (o pedido é compreensível) e argumentos:
 | 2. O que acontece antes e depois? | Antes: trabalho em grupo numa sala barulhenta. Depois: sai do grupo e vai para a biblioteca |
 | 3. Explicações possíveis | Fugir do barulho; fugir da conversa em grupo (medo de errar); as duas juntas. Ir para a biblioteca pode reforçar a saída |
 | 4. Sempre sozinha na biblioteca? | Alivia agora, mas pode reforçar a fuga e tirar chances de participar. Só serve como algo temporário, combinado com ela |
-| 4. O que propor no lugar | Lugar mais silencioso ou protetor de ouvido (se ela quiser), grupo menor, papel definido no grupo e um jeito combinado de pedir pausa |
+| 5. O que propor no lugar | Lugar mais silencioso ou protetor de ouvido (se ela quiser), grupo menor, papel definido no grupo e um jeito combinado de pedir pausa |
 
 O capuz, em si, não é problema a eliminar. A comparação ABA × TCC com este caso já foi feita no slide 26.
 

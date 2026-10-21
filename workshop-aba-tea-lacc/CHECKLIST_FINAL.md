@@ -18,7 +18,7 @@ Como usar: a **Parte A** registra o que já foi conferido nesta revisão (não e
 | Soma dos tempos dos slides (`SLIDES.md`) | **120 min** (105 de atividade + 15 de intervalo) ✅ |
 | Blocos e horários iguais em CORE §6, PLANO §6 e SLIDES §1 | ✅ |
 | Atividade prática: 2 + 10 + 8 min em CORE, PLANO e ATIVIDADE | ✅ |
-| Plenária: 1 + 2 + 1,5 + 1,5 + 1,5 + 0,5 = 8 min | ✅ |
+| Plenária: 8 min (perguntas 1 a 4, depois 5 e 6 pelos grupos responsáveis, fechamento) | ✅ |
 | Vídeo (34 s) dentro dos 2 min de instruções | ⚠️ Cabe, mas apertado. Ver Parte C (ensaio) |
 | Leitura da vinheta em voz alta (≈1,5 min) | ⚠️ Ocorre dentro dos 10 min de grupo; os grupos ficam com ≈8,5 min. Se o ensaio mostrar falta de tempo, não ler em voz alta: os grupos leem sozinhos |
 
@@ -27,7 +27,7 @@ Como usar: a **Parte A** registra o que já foi conferido nesta revisão (não e
 | Verificação | Resultado |
 |---|---|
 | Texto da vinheta no PDF (slides 35 e 35b) = ATIVIDADE B.2 | ✅ após correção (ver A.5) |
-| Perguntas no PDF (slide 36) = ATIVIDADE B.3 (P1–P4 para todos; P5–P7 em rodízio) | ✅ |
+| Perguntas no PDF (slide 36) = ATIVIDADE B.3 (1 a 4 para todos; 5 ou 6 por grupo: ímpares → 5, pares → 6) | ✅ |
 | Vídeo = slide 34a = ATIVIDADE B.0 (um episódio; terapeuta devolve os trilhos) | ✅ |
 | Objetivos O1–O7 (redação aprovada) iguais em CORE e PLANO; cobertos nos slides (SLIDES §10) | ✅ |
 | Dados da palestrante apenas conforme CORE §2 (slides 2 e 41) | ✅ |
@@ -84,6 +84,7 @@ Como usar: a **Parte A** registra o que já foi conferido nesta revisão (não e
 - [ ] Assistir ao vídeo **com som** (`apresentacao/Video_Theo_animacao.mp4`) e decidir:
   - [ ] o grito sintetizado está aceitável? (se não, pedir versão com grito mais baixo ou só música tensa)
   - [ ] confirmar que "se debate" (e não "se bate") está correto
+- [ ] Assistir ao vídeo da Lara **com som** (`apresentacao/Video_Lara_animacao.mp4`): a conversa dos colegas é sintetizada; se soar estranha, pedir versão só com ruído de sala ou só música
 - [ ] Ler as respostas comentadas da atividade (`ATIVIDADE_PRATICA.md` B.4) e o quadro raciocínio × memorização (§E)
 - [ ] Abrir os três links não verificados diretamente: Ministério da Saúde (R08), BACB (R28), CFP (R32)
 - [ ] (Opcional) informar ano e edição dos exemplares brasileiros do DSM-5-TR e do *Ciência e comportamento humano*
@@ -111,8 +112,9 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 - [ ] Notebook (ou iPad) com:
   - [ ] `Apresentacao_Workshop_ABA_TEA.pdf`
   - [ ] `Video_Theo_animacao.mp4`
+  - [ ] `Video_Lara_animacao.mp4` (reserva)
   - [ ] `Notas_da_palestrante.pdf` (no celular, para consulta)
-- [ ] **Cópia de segurança** dos três arquivos em pen drive **e** na nuvem
+- [ ] **Cópia de segurança** dos arquivos acima em pen drive **e** na nuvem
 - [ ] Carregador e adaptador de vídeo (HDMI)
 - [ ] Papel e caneta, ou celular, para **anotar as respostas da pergunta disparadora** (slide 6), que são retomadas no slide 22
 - [ ] Relógio ou cronômetro visível
@@ -124,6 +126,7 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 
 - [ ] Projetor ligado; PDF aberto em modo apresentação no slide 1
 - [ ] Testar a **legibilidade dos slides 35, 35b e 36** do fundo da sala
+- [ ] Lembrar que os slides de **respostas** (12b, 21b, 26b, 34b, 36a–36d, R1b, R2b) só entram **depois** que a turma responder
 - [ ] Vídeo aberto e pausado no início; **testar o som** em volume adequado
 - [ ] Água por perto
 - [ ] Cronômetro pronto para 9h30
@@ -135,7 +138,7 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 - [ ] Slide 27 (intervalo): lembrar a turma de formar grupos de 4 a 6
 - [ ] Slide 34: numerar os grupos em voz alta antes da vinheta
 - [ ] Atividade: avisar aos 5 min ("passem para a pergunta do rodízio") e quando faltar 1 min
-- [ ] Ter os slides de reserva (R1 Lara, R2 dado novo) prontos para grupos que terminarem antes
+- [ ] Ter os slides de reserva (R1a vídeo da Lara, R1 história da Lara, R2 dado novo) prontos para grupos que terminarem antes
 - [ ] Plenária: reler o aviso "uma vinheta não permite concluir a função"
 
 ## Parte F — Plano B
@@ -146,7 +149,7 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 | Sem som | Exibir o vídeo mudo (continua compreensível) e narrar: "ela guarda os trilhos… ele grita…" sem interpretar |
 | Vídeo não abre | Pular o slide 34a; a atividade funciona só com o texto |
 | Atraso no início | Aplicar os cortes da C.2 desde o Bloco 0 |
-| Turma pequena (1–2 grupos) | Cada grupo responde P1–P4 e duas das perguntas 5–7; a palestrante comenta a restante |
+| Turma pequena (1–2 grupos) | Cada grupo responde as perguntas 1 a 4 e também a 5 e a 6 |
 | Turma grande (muitos grupos) | Manter o rodízio; na plenária, ouvir um grupo por pergunta e pedir aos outros só complementos |
 | Pergunta sobre caso real | Acolher, lembrar que não se discutem casos reais e redirecionar para princípios gerais e supervisão |
 | Pergunta fora do escopo (ex.: medicação, diagnóstico) | Reconhecer a pergunta, dizer que foge ao foco do workshop e indicar o profissional adequado |
