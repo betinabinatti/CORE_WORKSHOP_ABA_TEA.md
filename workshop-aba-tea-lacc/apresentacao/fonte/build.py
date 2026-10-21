@@ -1,6 +1,7 @@
 import json, re, sys, os
 deck = sys.argv[1]; out_html = sys.argv[2]; notes_html = sys.argv[3] if len(sys.argv) > 3 else None
 d = json.load(open(os.path.join(deck, 'project/deck.json')))
+VIDEOS_URL = 'https://claude.ai/artifact/SWYiHZzEtMTHVZfgQQywCJ'  # página com os dois vídeos
 icons = {'Check': '✓', 'Warning': '!', 'Chat': '?', 'Book': '§', 'Lock': '×', 'Users': '●', 'Lightbulb': '★', 'Clock': '◷'}
 secs = []; notes = []
 for sid in d['order']:
@@ -14,6 +15,15 @@ for sid in d['order']:
     s = s.replace('/_blob/b2ad19c5e4722e8674f79df638a19abb', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'video_capa.png'))
     s = s.replace('/_blob/d9116fe981a9ce669f0fddba86863cd9', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lara_capa.png'))
     s = re.sub(r' data-video[-a-z]*="[^"]*"', '', s)
+    # PDF: a capa do vídeo vira um link para a página com os vídeos, com um botão de play
+    alvo = {'s34v': 'theo', 'r1v': 'lara'}.get(sid)
+    if alvo:
+        play = ('<span style="position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:150px;height:150px;border-radius:50%;'
+                'background:rgba(27,47,75,.85);display:flex;align-items:center;justify-content:center">'
+                '<span style="margin-left:14px;width:0;height:0;border-top:36px solid transparent;border-bottom:36px solid transparent;border-left:60px solid #FFFFFF"></span></span>'
+                '<span style="position:absolute;left:50%;bottom:18px;transform:translateX(-50%);white-space:nowrap;padding:8px 20px;border-radius:24px;'
+                'background:rgba(27,47,75,.85);font-size:24px;font-weight:700;color:#FFFFFF">Toque para assistir com som</span>')
+        s = re.sub(r'(<img [^>]*>)', lambda m: f'<a href="{VIDEOS_URL}#{alvo}" style="position:relative;display:block;flex:none">{m.group(1)}{play}</a>', s, count=1)
     def ic(m):
         name = m.group(1); style = m.group(2)
         col = re.search(r'color:([^;"]+)', style); col = col.group(1) if col else '#2F5D8A'
