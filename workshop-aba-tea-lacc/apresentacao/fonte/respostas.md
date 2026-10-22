@@ -8,7 +8,7 @@ Workshop ABA e TEA · LACC · 24/10/2026 · guia da palestrante
 
 ## Slide 6 — "Uma criança grita e se joga no chão quando a atividade muda. Por quê?"
 
-**Não há resposta certa neste momento.** O objetivo é coletar as respostas e mostrar, no slide 22, que cada uma é uma hipótese diferente.
+**Não há resposta certa neste momento.** O objetivo é coletar as respostas e mostrar, no slide 24, que cada uma é uma hipótese diferente.
 
 | Resposta provável do público | O que ela é, em termos funcionais |
 |---|---|
@@ -19,7 +19,7 @@ Workshop ABA e TEA · LACC · 24/10/2026 · guia da palestrante
 | "Está cansada", "dormiu mal" | **Variável contextual** (operação motivadora), **não é função** |
 | "É birra", "é manha" | Rótulo, não explicação: não diz o que mantém o comportamento |
 
-**Fechamento no slide 22:** só a avaliação permite escolher entre essas hipóteses.
+**Fechamento no slide 24:** só a avaliação permite escolher entre essas hipóteses.
 
 ## Slide 12 — "Se o objetivo não é 'tirar o autismo', o que justifica uma intervenção?"
 
@@ -32,7 +32,7 @@ Intervir se justifica quando há **ganho real para a vida da pessoa**:
 
 Os objetivos são definidos com a família e, sempre que possível, com a própria pessoa. Características autistas que não causam prejuízo (ex.: estereotipias que não causam dano, interesses intensos) **não são alvo por si só**.
 
-## Slides 19 a 21 — Mini-exercício
+## Slides 20 a 22 — Mini-exercício
 
 | Situação | O que acontece logo depois | Hipótese | O que observar para testar |
 |---|---|---|---|
@@ -49,7 +49,7 @@ Os objetivos são definidos com a família e, sempre que possível, com a própr
 - Um episódio não basta; hipóteses se sustentam em padrões que se repetem.
 - A quarta hipótese, o **reforçamento automático**, não aparece de propósito. Ela deve ser considerada quando o comportamento ocorre também com a criança sozinha.
 
-## Slide 26 — "O que um analista do comportamento perguntaria primeiro? E um terapeuta cognitivo-comportamental?"
+## Slide 28 — "O que um analista do comportamento perguntaria primeiro? E um terapeuta cognitivo-comportamental?"
 
 *(Adolescente autista que evita trabalhos em grupo e diz ter medo de "falar algo errado".)*
 
@@ -57,9 +57,9 @@ Os objetivos são definidos com a família e, sempre que possível, com a própr
 - **Terapeuta cognitivo-comportamental:** que pensamentos automáticos e crenças ela tem sobre interações sociais (ex.: "vou falar algo errado", "vão rir de mim")? Como esses pensamentos influenciam a ansiedade e a esquiva?
 - **Fechamento:** as duas leituras podem ajudar no caso, mas **não são equivalentes**. Elas diferem no papel que dão aos pensamentos e no tipo de intervenção.
 
-## Slide 34a — Vídeo: "O que acontece antes? O que ele faz? O que acontece depois?"
+## Slide 38 — Vídeo: "O que acontece antes? O que ele faz? O que acontece depois?"
 
-*Não há slide de respostas logo depois do vídeo: os grupos respondem junto com a história, e a correção aparece no slide 36a (inclui "E a terapeuta do vídeo?").*
+*Não há slide de respostas logo depois do vídeo: os grupos respondem junto com a história, e a correção aparece no slide 43 (inclui "E a terapeuta do vídeo?").*
 
 | | Resposta |
 |---|---|
@@ -71,7 +71,7 @@ Os objetivos são definidos com a família e, sempre que possível, com a própr
 
 **Lembrar:** o vídeo mostra **um** episódio e "sugere" acesso aos trilhos. A vinheta traz dados que mudam essa leitura.
 
-## Slides 35 a 37 — Vinheta do Theo
+## Slides 39 a 46 — Vinheta do Theo (perguntas no 41, respostas do 43 ao 46)
 
 *(Numeração em uso nos slides: a pergunta "como distinguir as hipóteses" foi retirada.)*
 
@@ -119,11 +119,14 @@ Resposta à mãe, **com acolhimento** (o pedido é compreensível) e argumentos:
 
 **Erros comuns:** responder só "não pode, é antiético", sem argumento; ou aceitar a retirada sem avaliar a função.
 
-## Slide 38 — Pergunta de checagem: "O que vocês não podem concluir a partir da vinheta?"
+## Slide 47 — Dado novo: "Qual explicação fica mais forte? Já dá para ter certeza?"
 
-**A função do comportamento.** A vinheta permite **levantar hipóteses**; concluir exige avaliação adequada, mais dados e supervisão. Também não dá para concluir que uma estratégia vai funcionar antes de testá-la com dados.
+- **Mais forte:** "quer os trilhos" (ou as duas juntas): sem guardar os trilhos, quase não houve episódio. "Foge da mesa" fica mais fraca.
+- **Certeza, ainda não:** são só 4 sessões, sem controle de sono, terapeuta ou tipo de tarefa. É mais uma pista; o próximo passo é uma avaliação organizada, com supervisão.
 
-## Reserva R1a — Vídeo da Lara: "O que acontece antes? O que ela faz? O que acontece depois?"
+## Slide 49 a 52 — Caso extra: Lara
+
+### Slide 50 — Vídeo da Lara: "O que acontece antes? O que ela faz? O que acontece depois?"
 
 | | Resposta |
 |---|---|
@@ -131,19 +134,19 @@ Resposta à mãe, **com acolhimento** (o pedido é compreensível) e argumentos:
 | **O que ela faz** | Coloca o capuz, abaixa a cabeça, levanta e sai da sala sem avisar |
 | **Depois** | Fica sozinha e tranquila na biblioteca, desenhando: o barulho e o grupo acabam para ela |
 
-## Reserva R1 — A história da Lara
+### Slide 51 — A história da Lara
 
 | Pergunta | Resposta |
 |---|---|
 | 1. O que a Lara faz? | Coloca o capuz, abaixa a cabeça e sai da sala sem avisar |
 | 2. O que acontece antes e depois? | Antes: trabalho em grupo numa sala barulhenta. Depois: sai do grupo e vai para a biblioteca |
 | 3. Explicações possíveis | Fugir do barulho; fugir da conversa em grupo (medo de errar); as duas juntas. Ir para a biblioteca pode reforçar a saída |
-| 4. Sempre sozinha na biblioteca? | Alivia agora, mas pode reforçar a fuga e tirar chances de participar. Só serve como algo temporário, combinado com ela |
+| 4. Sozinha na biblioteca: ajuda ou atrapalha? | Alivia agora, mas pode reforçar a fuga e tirar chances de participar. Só serve como algo temporário, combinado com ela |
 | 5. O que propor no lugar | Lugar mais silencioso ou protetor de ouvido (se ela quiser), grupo menor, papel definido no grupo e um jeito combinado de pedir pausa |
 
-O capuz, em si, não é problema a eliminar. A comparação ABA × TCC com este caso já foi feita no slide 26.
+O capuz, em si, não é problema a eliminar. A comparação ABA × TCC com este caso já foi feita no slide 28.
 
-## Reserva R2 — Dado novo: "Qual explicação fica mais forte? Já dá para ter certeza?"
+## Slide 53 — Pergunta de checagem: "O que vocês não podem concluir a partir da vinheta?"
 
-- **Mais forte:** "quer os trilhos" (ou as duas juntas): sem guardar os trilhos, quase não houve episódio. "Foge da mesa" fica mais fraca.
-- **Certeza, ainda não:** são só 4 sessões, sem controle de sono, terapeuta ou tipo de tarefa. É mais uma pista; o próximo passo é uma avaliação organizada, com supervisão.
+**A função do comportamento.** A vinheta permite **levantar hipóteses**; concluir exige avaliação adequada, mais dados e supervisão. Também não dá para concluir que uma estratégia vai funcionar antes de testá-la com dados.
+

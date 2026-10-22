@@ -4,6 +4,9 @@
 >
 > **Versão:** 1.4 — slides de respostas após cada pergunta. 1.3 — visual v2 (Montserrat, conteúdo centralizado). 1.2 — acrescentado S34a (vídeo) · S19, S36 e S37 alinhados à ATIVIDADE v1.2 · **Total:** 42 slides de apresentação + 2 de reserva + referências (apêndice). O PDF gerado está em `apresentacao/`.
 
+> **Numeração atualizada (22/10/2026).** A pedido da palestrante, a apresentação foi renumerada em sequência (1 a 61), as respostas da atividade passaram a vir só depois das perguntas, a plenária (antigo 37) vem antes dos slides de respostas, o slide de respostas do vídeo (antigo 34b) saiu, o caso da Lara virou "caso extra" com um slide de abertura (49), e o encerramento ficou no fim, com as referências por último. Este documento ainda usa a numeração antiga; a correspondência está no fim.
+
+
 ---
 
 ## 0. Como usar este documento
@@ -685,3 +688,69 @@ Slides de referência completa, em APA 7, extraídos de `REFERENCIAS.md`, apenas
 | Linguagem | "Pessoa autista"; "comportamento interferente"; termos do CORE §11 ✅ |
 | Exemplos fictícios | Identificados em S6, S9, S14–S16, S20, S26, S30, S32, S35, R1 ✅ |
 | Palestrante | Apenas dados do CORE §2 (S2, S41) ✅ |
+
+
+## Correspondência entre a numeração antiga e a atual
+
+| Antiga | Atual |
+|---|---|
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
+| 7 | 7 |
+| 8 | 8 |
+| 9 | 9 |
+| 10 | 10 |
+| 11 | 11 |
+| 12 | 12 |
+| 12b | 13 |
+| 13 | 14 |
+| 14 | 15 |
+| 15 | 16 |
+| 16 | 17 |
+| 17 | 18 |
+| 18 | 19 |
+| 19 | 20 |
+| 20 | 21 |
+| 21 | 22 |
+| 21b | 23 |
+| 22 | 24 |
+| 23 | 25 |
+| 24 | 26 |
+| 25 | 27 |
+| 26 | 28 |
+| 26b | 29 |
+| 27 | 30 |
+| 28 | 31 |
+| 29 | 32 |
+| 30 | 33 |
+| 31 | 34 |
+| 32 | 35 |
+| 33 | 36 |
+| 34 | 37 |
+| 34a | 38 |
+| 35 | 39 |
+| 35b | 40 |
+| 36 | 41 |
+| 37 | 42 |
+| 36a | 43 |
+| 36b | 44 |
+| 36c | 45 |
+| 36d | 46 |
+| R2 | 47 |
+| R2b | 48 |
+| R1a | 50 |
+| R1 | 51 |
+| R1b | 52 |
+| 38 | 53 |
+| 39 | 54 |
+| 40 | 55 |
+| 41 | 56 |
+| A1 | 57 |
+| A2 | 58 |
+| A3 | 59 |
+| A4 | 60 |
+| A5 | 61 |
+| (novo) Caso extra: Lara | 49 |

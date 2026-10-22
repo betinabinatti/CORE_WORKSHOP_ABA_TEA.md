@@ -26,11 +26,11 @@ Como usar: a **Parte A** registra o que já foi conferido nesta revisão (não e
 
 | Verificação | Resultado |
 |---|---|
-| Texto da vinheta no PDF (slides 35 e 35b) = ATIVIDADE B.2 | ✅ após correção (ver A.5) |
-| Perguntas no PDF (slide 36) = ATIVIDADE B.3 (1 a 4 para todos; 5 ou 6 por grupo: ímpares → 5, pares → 6) | ✅ |
-| Vídeo = slide 34a = ATIVIDADE B.0 (um episódio; terapeuta devolve os trilhos) | ✅ |
+| Texto da vinheta no PDF (slides 39 e 40) = ATIVIDADE B.2 | ✅ após correção (ver A.5) |
+| Perguntas no PDF (slide 41) = ATIVIDADE B.3 (1 a 4 para todos; 5 ou 6 por grupo: ímpares → 5, pares → 6) | ✅ |
+| Vídeo = slide 38 = ATIVIDADE B.0 (um episódio; terapeuta devolve os trilhos) | ✅ |
 | Objetivos O1–O7 (redação aprovada) iguais em CORE e PLANO; cobertos nos slides (SLIDES §10) | ✅ |
-| Dados da palestrante apenas conforme CORE §2 (slides 2 e 41) | ✅ |
+| Dados da palestrante apenas conforme CORE §2 (slides 2 e 56) | ✅ |
 | Data e local no PDF (capa e encerramento): 24/10/2026 · PUCRS | ✅ |
 | Linguagem "pessoa autista" nos slides; "TEA" apenas como termo diagnóstico | ✅ |
 | Exemplos fictícios identificados (slides, vinhetas, vídeo com selo em todas as cenas) | ✅ |
@@ -39,13 +39,13 @@ Como usar: a **Parte A** registra o que já foi conferido nesta revisão (não e
 
 | Verificação | Resultado |
 |---|---|
-| Toda citação dos slides existe no apêndice (A1–A5) e em `REFERENCIAS.md` | ✅ todos os rodapés conferidos |
+| Toda citação dos slides existe no apêndice (slides 57 a 61) e em `REFERENCIAS.md` | ✅ todos os rodapés conferidos |
 | Nenhuma afirmação além da coluna "O que pode ser afirmado" (REFERENCIAS §6.3) | ✅ |
 | Prevalência: global ≈1% [Zeidan 2022] separada de EUA 1 em 31 [Shaw 2025], com aviso | ✅ |
 | DSM-5-TR: "níveis de gravidade", definidos pelo apoio necessário | ✅ |
 | ABA × TCC: diferenças de pressupostos explícitas; nenhuma equivalência indevida | ✅ |
 | Evidência, hipótese clínica e exemplo didático distinguidos nas notas e na atividade | ✅ |
-| Aviso "uma vinheta não permite concluir a função" no slide 34, no 37 e na atividade | ✅ |
+| Aviso "uma vinheta não permite concluir a função" no slide 37, no 42 e na atividade | ✅ |
 | Supressão de características autistas não aparece como objetivo; interesse por trens tratado como recurso | ✅ |
 | Ponto novo do vídeo (comportamento do adulto mantido por reforçamento negativo) marcado como **hipótese clínica** | ✅ |
 
@@ -55,12 +55,12 @@ Como usar: a **Parte A** registra o que já foi conferido nesta revisão (não e
 |---|---|
 | Nenhum caso real; nenhuma imagem de criança real | ✅ |
 | Vídeo: animação ilustrada, sem material de terceiros, com aviso de exemplo fictício | ✅ |
-| Limites de atuação (slides 4, 28 e 33) e supervisão (síntese) | ✅ |
-| Assentimento e efeitos adversos mencionados (slide 33) | ✅ |
+| Limites de atuação (slides 4, 31 e 36) e supervisão (síntese) | ✅ |
+| Assentimento e efeitos adversos mencionados (slide 36) | ✅ |
 
 ### A.5 Correções feitas nesta revisão
 
-1. **Slide 35b:** o PDF dizia apenas "Nas semanas em que os episódios foram mais longos, Theo dormiu mal…". Corrigido para "**A mãe também conta que**, nas semanas…", como na atividade. A fonte da informação (relato da mãe, e não registro da equipe) faz diferença para a análise. PDF regenerado.
+1. **Slide 40:** o PDF dizia apenas "Nas semanas em que os episódios foram mais longos, Theo dormiu mal…". Corrigido para "**A mãe também conta que**, nas semanas…", como na atividade. A fonte da informação (relato da mãe, e não registro da equipe) faz diferença para a análise. PDF regenerado.
 2. **CORE §14:** status dos entregáveis atualizado (atividade v1.5, slides v1.2, roteiro adiado, checklist v1.0).
 
 ---
@@ -96,12 +96,12 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 | Ponto de controle | Horário previsto | Se estiver atrasado |
 |---|---|---|
 | Início do Bloco 1 (slide 7) | 9h40 | Encurtar a apresentação pessoal e os combinados |
-| Início do Bloco 2 (slide 13) | 9h55 | Encurtar o slide 12 (ouvir só 1 resposta) |
-| Início do Bloco 3 (slide 23) | 10h20 | Mini-exercício em plenária, e não em duplas |
-| Intervalo (slide 27) | 10h30 | Bloco 3 em 7 min: só o quadro comparativo (slide 24) |
-| Início do Bloco 4 (slide 28) | 10h45 | — |
-| Início da atividade (slide 34) | 11h03 | Condensar os slides 31 e 32 em 1 min |
-| Início da síntese (slide 38) | 11h23 | Plenária de 6 min (hipóteses, como distinguir, ética) |
+| Início do Bloco 2 (slide 14) | 9h55 | Encurtar o slide 12 (ouvir só 1 resposta) |
+| Início do Bloco 3 (slide 25) | 10h20 | Mini-exercício em plenária, e não em duplas |
+| Intervalo (slide 30) | 10h30 | Bloco 3 em 7 min: só o quadro comparativo (slide 26) |
+| Início do Bloco 4 (slide 31) | 10h45 | — |
+| Início da atividade (slide 37) | 11h03 | Condensar os slides 34 e 35 em 1 min |
+| Início da síntese (slide 53) | 11h23 | Plenária de 6 min (hipóteses, como distinguir, ética) |
 
 - [ ] Ensaio feito; tempo total: ______ min
 - [ ] Testar a sequência da atividade: 34 (instruções) → 34a (vídeo) → 35 e 35b (história) → 36 (perguntas) → grupos → 36a a 36d (respostas, só na plenária)
@@ -112,11 +112,11 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 - [ ] Notebook (ou iPad) com:
   - [ ] `Apresentacao_Workshop_ABA_TEA.pdf`
   - [ ] `Video_Theo_animacao.mp4`
-  - [ ] `Video_Lara_animacao.mp4` (reserva)
+  - [ ] `Video_Lara_animacao.mp4` (caso extra)
   - [ ] `Notas_da_palestrante.pdf` (no celular, para consulta)
 - [ ] **Cópia de segurança** dos arquivos acima em pen drive **e** na nuvem
 - [ ] Carregador e adaptador de vídeo (HDMI)
-- [ ] Papel e caneta, ou celular, para **anotar as respostas da pergunta disparadora** (slide 6), que são retomadas no slide 22
+- [ ] Papel e caneta, ou celular, para **anotar as respostas da pergunta disparadora** (slide 6), que são retomadas no slide 24
 - [ ] Relógio ou cronômetro visível
 - [ ] Vinheta e roteiro de perguntas acessíveis no celular (plano B se o projetor falhar)
 
@@ -125,8 +125,8 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 ### Antes de começar (a partir das 9h)
 
 - [ ] Projetor ligado; PDF aberto em modo apresentação no slide 1
-- [ ] Testar a **legibilidade dos slides 35, 35b e 36** do fundo da sala
-- [ ] Lembrar que os slides de **respostas** (12b, 21b, 26b, 36a–36d, R1b, R2b) só entram **depois** que a turma responder
+- [ ] Testar a **legibilidade dos slides 39, 40 e 41** do fundo da sala
+- [ ] Lembrar que os slides de **respostas** (13, 23, 29, 43 a 46, 48 e 52) só entram **depois** que a turma responder
 - [ ] Vídeo aberto e pausado no início; **testar o som** em volume adequado
 - [ ] Água por perto
 - [ ] Cronômetro pronto para 9h30
@@ -135,10 +135,10 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 
 - [ ] Slide 6: anotar 4 a 6 respostas da pergunta disparadora
 - [ ] Conferir o relógio em cada ponto de controle (C.2)
-- [ ] Slide 27 (intervalo): lembrar a turma de formar grupos de 4 a 6
-- [ ] Slide 34: numerar os grupos em voz alta antes da vinheta
+- [ ] Slide 30 (intervalo): lembrar a turma de formar grupos de 4 a 6
+- [ ] Slide 37: numerar os grupos em voz alta antes da vinheta
 - [ ] Atividade: avisar aos 5 min ("passem para a pergunta do rodízio") e quando faltar 1 min
-- [ ] Ter os slides de reserva (R1a vídeo da Lara, R1 história da Lara, R2 dado novo) prontos para grupos que terminarem antes
+- [ ] Depois das respostas, mostrar o dado novo do Theo (slides 47 e 48). O caso extra da Lara (slides 49 a 52) só entra se houver tempo
 - [ ] Plenária: reler o aviso "uma vinheta não permite concluir a função"
 
 ## Parte F — Plano B
@@ -147,7 +147,7 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 |---|---|
 | Projetor não funciona | Ler a vinheta e as perguntas em voz alta a partir do celular; escrever o roteiro de perguntas no quadro, se houver |
 | Sem som | Exibir o vídeo mudo (continua compreensível) e narrar: "ela guarda os trilhos… ele grita…" sem interpretar |
-| Vídeo não abre | Pular o slide 34a; a atividade funciona só com o texto |
+| Vídeo não abre | Pular o slide 38; a atividade funciona só com o texto |
 | Atraso no início | Aplicar os cortes da C.2 desde o Bloco 0 |
 | Turma pequena (1–2 grupos) | Cada grupo responde as perguntas 1 a 4 e também a 5 e a 6 |
 | Turma grande (muitos grupos) | Manter o rodízio; na plenária, ouvir um grupo por pergunta e pedir aos outros só complementos |
@@ -160,11 +160,11 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 
 | Arquivo | Uso |
 |---|---|
-| `apresentacao/Apresentacao_Workshop_ABA_TEA.pdf` | Apresentação (60 páginas: slides do workshop com os slides de respostas após cada pergunta, 2 de reserva com respostas e 5 de referências) |
+| `apresentacao/Apresentacao_Workshop_ABA_TEA.pdf` | Apresentação (61 páginas: o workshop com as respostas logo depois de cada pergunta, o caso extra da Lara, o encerramento e, por último, 5 de referências) |
 | `apresentacao/Apresentacao_Workshop_ABA_TEA.pptx` | Versão PowerPoint editável (61 slides, notas da palestrante e os dois vídeos embutidos) |
 | `apresentacao/Notas_da_palestrante.pdf` | O que dizer e o tempo de cada slide |
 | `apresentacao/Video_Theo_animacao.mp4` | Vídeo da vinheta do Theo (34 s, com som) |
-| `apresentacao/Video_Lara_animacao.mp4` | Vídeo da reserva da Lara (32 s, com som) |
+| `apresentacao/Video_Lara_animacao.mp4` | Vídeo do caso extra da Lara (32 s, com som) |
 | `apresentacao/Respostas_das_perguntas.pdf` | Respostas esperadas de todas as perguntas feitas nos slides (fonte em `apresentacao/fonte/respostas.md`) |
 | `ATIVIDADE_PRATICA.md` | Vinhetas, perguntas, respostas comentadas, critério de raciocínio, roteiro do vídeo |
 | `REFERENCIAS.md` | Bibliografia verificada e limites do que cada fonte sustenta |
