@@ -14,7 +14,6 @@ for sid in d['order']:
     # PDF: troca o vídeo do artefato pela imagem de capa local
     s = s.replace('/_blob/b2ad19c5e4722e8674f79df638a19abb', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'video_capa.png'))
     s = s.replace('/_blob/d9116fe981a9ce669f0fddba86863cd9', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lara_capa.png'))
-    s = s.replace('/_blob/8cc5e1960723c2d2be28c1f4f29195d7', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'foto_circulo.jpg'))
     s = s.replace('/_blob/5ce8baffe98370098b59de1a6aaad6dc', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'foto_retrato.jpg'))
     s = re.sub(r' data-video[-a-z]*="[^"]*"', '', s)
     # PDF: a capa do vídeo vira um link para a página com os vídeos, com um botão de play
