@@ -42,7 +42,7 @@ Como usar: a **Parte A** registra o que já foi conferido nesta revisão (não e
 | Toda citação dos slides existe no apêndice (slides 57 a 61) e em `REFERENCIAS.md` | ✅ todos os rodapés conferidos |
 | Nenhuma afirmação além da coluna "O que pode ser afirmado" (REFERENCIAS §6.3) | ✅ |
 | Prevalência: global ≈1% [Zeidan 2022] separada de EUA 1 em 31 [Shaw 2025], com aviso | ✅ |
-| DSM-5-TR: "níveis de gravidade", definidos pelo apoio necessário | ✅ |
+| Slide 8: "níveis de suporte" (escolha da palestrante), com a observação de que o nome oficial no DSM-5-TR é "níveis de gravidade" | ✅ |
 | ABA × TCC: diferenças de pressupostos explícitas; nenhuma equivalência indevida | ✅ |
 | Evidência, hipótese clínica e exemplo didático distinguidos nas notas e na atividade | ✅ |
 | Aviso "uma vinheta não permite concluir a função" no slide 37, no 42 e na atividade | ✅ |

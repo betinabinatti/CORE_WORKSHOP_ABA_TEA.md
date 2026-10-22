@@ -81,7 +81,7 @@ Princípio: **profundidade em poucos conceitos-chave** em vez de cobertura ampla
 | Horário | Duração | Bloco | Conteúdo principal | Estratégia didática | Objetivos |
 |---|---|---|---|---|---|
 | 9h30–9h40 | 10 min | **0. Abertura** | Apresentação da palestrante, objetivos, combinados; pergunta disparadora ("Uma criança grita quando a atividade muda. Por quê?") | Exposição + enquete de mão levantada | — |
-| 9h40–9h55 | 15 min | **1. TEA: conceitos e heterogeneidade** | Critérios do DSM-5-TR, níveis de gravidade (definidos pelo suporte necessário), heterogeneidade, coocorrências; neurodiversidade e implicações para objetivos terapêuticos | Exposição dialogada | O1 |
+| 9h40–9h55 | 15 min | **1. TEA: conceitos e heterogeneidade** | Critérios do DSM-5-TR, níveis de suporte (no DSM-5-TR, "níveis de gravidade", definidos pelo suporte necessário), heterogeneidade, coocorrências; neurodiversidade e implicações para objetivos terapêuticos | Exposição dialogada | O1 |
 | 9h55–10h20 | 25 min | **2. Fundamentos da ABA e análise funcional** | ABA como ciência aplicada (dimensões de Baer, Wolf & Risley); topografia × função; A–B–C; variáveis contextuais e operações motivadoras; reforçamento; hipóteses funcionais; **mini-exercício**: "mesma topografia, funções diferentes" | Exposição dialogada + exercício em duplas (5 min) | O2, O3, O4 |
 | 10h20–10h30 | 10 min | **3. Ponte ABA–TCC** | Aproximações e diferenças (pressupostos, unidade de análise, métodos, papel dos eventos privados); quando cada referencial é usado em TEA | Exposição + 1 pergunta de discussão | Requisito de escopo (§7) — contextualização para a LACC |
 | 10h30–10h45 | 15 min | **Intervalo** | — | — | — |
