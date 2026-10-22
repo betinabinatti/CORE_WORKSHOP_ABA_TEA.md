@@ -535,7 +535,7 @@ A pedido da palestrante, cada slide de pergunta ganhou um **slide de respostas l
 **Na tela:**
 > • Objetivos com sentido para a vida da pessoa — definidos com a família e com a pessoa  
 > • **Assentimento:** observar sinais de concordância e de recusa  
-> • Não ter como alvo características autistas inofensivas  
+> • Não ter como alvo características autistas que não causam prejuízo  
 > • Revisar por dados, incluindo **possíveis efeitos adversos**  
 > • Supervisão e limites de atuação
 

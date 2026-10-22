@@ -139,7 +139,7 @@ Durante o intervalo, deixar projetado o slide de "aquecimento" da atividade: *"A
 5. **Ética e tomada de decisão** (≈4 min):
    - objetivos com relevância para a vida da pessoa, definidos com família e, sempre que possível, com a própria pessoa;
    - **assentimento**: observar sinais de concordância e de retirada [R30];
-   - não intervir sobre características autistas inofensivas só por serem "diferentes";
+   - não intervir sobre características autistas que não causam prejuízo só por serem "diferentes";
    - individualização e revisão por dados, incluindo atenção a possíveis efeitos adversos [R27];
    - **limites de atuação**: estudantes não conduzem avaliação ou intervenção sem formação e supervisão; no Brasil, a atuação do psicólogo segue o Código de Ética do CFP [R32] (o código do BACB [R28] é referência internacional da área).
 

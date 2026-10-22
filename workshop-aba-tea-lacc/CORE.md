@@ -150,7 +150,7 @@ Regras:
 
 ## 10. Princípios éticos transversais
 
-- Objetivos terapêuticos definidos por **relevância funcional e qualidade de vida**, não pela supressão de características autistas por si só (ex.: estereotipias inofensivas não são alvo automático).
+- Objetivos terapêuticos definidos por **relevância funcional e qualidade de vida**, não pela supressão de características autistas por si só (ex.: estereotipias que não causam prejuízo não são alvo automático).
 - **Assentimento** e sinais de retirada de assentimento considerados durante a intervenção.
 - **Dignidade, comunicação e autonomia**: priorizar dar à pessoa formas eficazes de comunicar e escolher.
 - Participação da família e da pessoa autista na definição de objetivos.

@@ -104,7 +104,7 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 | Início da síntese (slide 38) | 11h23 | Plenária de 6 min (hipóteses, como distinguir, ética) |
 
 - [ ] Ensaio feito; tempo total: ______ min
-- [ ] Testar a sequência slide 34 → vídeo → slide 34a → slide 35 (alternar PDF e vídeo sem perder tempo)
+- [ ] Testar a sequência da atividade: 34 (instruções) → 34a (vídeo) → 35 e 35b (história) → 36 (perguntas) → grupos → 36a a 36d (respostas, só na plenária)
 - [ ] Decidir se a vinheta será lida em voz alta ou só pelos grupos (A.1)
 
 ## Parte D — Materiais para levar
@@ -126,7 +126,7 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 
 - [ ] Projetor ligado; PDF aberto em modo apresentação no slide 1
 - [ ] Testar a **legibilidade dos slides 35, 35b e 36** do fundo da sala
-- [ ] Lembrar que os slides de **respostas** (12b, 21b, 26b, 34b, 36a–36d, R1b, R2b) só entram **depois** que a turma responder
+- [ ] Lembrar que os slides de **respostas** (12b, 21b, 26b, 36a–36d, R1b, R2b) só entram **depois** que a turma responder
 - [ ] Vídeo aberto e pausado no início; **testar o som** em volume adequado
 - [ ] Água por perto
 - [ ] Cronômetro pronto para 9h30
@@ -160,7 +160,7 @@ Ensaiar ao menos uma vez em voz alta, com cronômetro, conferindo os **pontos de
 
 | Arquivo | Uso |
 |---|---|
-| `apresentacao/Apresentacao_Workshop_ABA_TEA.pdf` | Apresentação (61 páginas: slides do workshop com os slides de respostas após cada pergunta, 2 de reserva com respostas e 5 de referências) |
+| `apresentacao/Apresentacao_Workshop_ABA_TEA.pdf` | Apresentação (60 páginas: slides do workshop com os slides de respostas após cada pergunta, 2 de reserva com respostas e 5 de referências) |
 | `apresentacao/Apresentacao_Workshop_ABA_TEA.pptx` | Versão PowerPoint editável (61 slides, notas da palestrante e os dois vídeos embutidos) |
 | `apresentacao/Notas_da_palestrante.pdf` | O que dizer e o tempo de cada slide |
 | `apresentacao/Video_Theo_animacao.mp4` | Vídeo da vinheta do Theo (34 s, com som) |

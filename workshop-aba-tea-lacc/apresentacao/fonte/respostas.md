@@ -30,7 +30,7 @@ Intervir se justifica quando há **ganho real para a vida da pessoa**:
 - **segurança:** quando o comportamento machuca a pessoa ou outras pessoas;
 - **qualidade de vida.**
 
-Os objetivos são definidos com a família e, sempre que possível, com a própria pessoa. Características autistas inofensivas (ex.: estereotipias que não causam dano, interesses intensos) **não são alvo por si só**.
+Os objetivos são definidos com a família e, sempre que possível, com a própria pessoa. Características autistas que não causam prejuízo (ex.: estereotipias que não causam dano, interesses intensos) **não são alvo por si só**.
 
 ## Slides 19 a 21 — Mini-exercício
 
@@ -58,6 +58,8 @@ Os objetivos são definidos com a família e, sempre que possível, com a própr
 - **Fechamento:** as duas leituras podem ajudar no caso, mas **não são equivalentes**. Elas diferem no papel que dão aos pensamentos e no tipo de intervenção.
 
 ## Slide 34a — Vídeo: "O que acontece antes? O que ele faz? O que acontece depois?"
+
+*Não há slide de respostas logo depois do vídeo: os grupos respondem junto com a história, e a correção aparece no slide 36a (inclui "E a terapeuta do vídeo?").*
 
 | | Resposta |
 |---|---|
