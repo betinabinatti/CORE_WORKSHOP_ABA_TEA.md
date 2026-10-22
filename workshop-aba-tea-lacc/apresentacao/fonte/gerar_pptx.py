@@ -46,6 +46,23 @@ def notas(sid):
     return t.replace(" || ", "\n\n")
 
 
+def foto(src):
+    """Foto da palestrante; a versão redonda ganha recorte circular com borda, como nos slides."""
+    caminho = src.replace("file://", "")
+    if not caminho.endswith("foto_circulo.jpg"):
+        return caminho
+    from PIL import Image, ImageDraw
+    n = 4 * 700
+    im = Image.open(caminho).convert("RGBA").resize((n, n), Image.LANCZOS)
+    mask = Image.new("L", (n, n), 0)
+    ImageDraw.Draw(mask).ellipse((0, 0, n - 1, n - 1), fill=255)
+    im.putalpha(mask)
+    ImageDraw.Draw(im).ellipse((0, 0, n - 1, n - 1), outline=(15, 124, 134, 255), width=int(n * 10 / 440))
+    out = os.path.join(AQUI, "foto_circulo_pptx.png")
+    im.resize((700, 700), Image.LANCZOS).save(out)
+    return out
+
+
 def add_runs(p, runs, base):
     for r in runs:
         if r["t"] == "\n":
@@ -159,6 +176,8 @@ def main(layout, saida):
                     add_runs(p, runs, it)
             elif k == "table":
                 tabela(slide, it)
+            elif k == "img" and s["id"] not in VIDEOS:
+                slide.shapes.add_picture(foto(it["src"]), e(it["x"]), e(it["y"]), e(it["w"]), e(it["h"]))
             elif k == "img":
                 capa, video = VIDEOS[s["id"]]
                 mv = slide.shapes.add_movie(os.path.join(APRES, video), e(it["x"]), e(it["y"]), e(it["w"]), e(it["h"]),
