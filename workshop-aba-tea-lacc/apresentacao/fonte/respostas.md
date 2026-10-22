@@ -91,20 +91,20 @@ Trilhos devolvidos "por mais cinco minutos" · atividade de mesa adiada · em al
 
 | Hipótese | A favor | Contra / falta saber |
 |---|---|---|
-| **H1. Acesso aos trilhos** | Acontece quando os trilhos são guardados; às vezes eles voltam; em casa acontece ao desligar a TV | No dia do lanche os trilhos também foram guardados e não houve episódio (mas o lanche também é algo de que ele gosta) |
-| **H2. Fuga da mesa** | Não acontece quando o próximo é o lanche; às vezes a mesa é adiada | Em casa o antecedente é o banho, não uma tarefa de mesa |
-| **H3. As duas juntas** | Os dois antecedentes acontecem ao mesmo tempo; as consequências se alternam | Precisa de avaliação |
-| **H4. Atenção** | Possível atenção durante o episódio | Nenhum dado mostra isso: hipótese menos apoiada |
+| **Ele quer continuar com os trilhos** | Acontece quando os trilhos são guardados; às vezes eles voltam; em casa acontece ao desligar a TV | No dia do lanche os trilhos também foram guardados e não houve episódio (mas o lanche também é algo de que ele gosta) |
+| **Ele quer escapar da atividade de mesa** | Não acontece quando o próximo é o lanche; às vezes a mesa é adiada | Em casa o antecedente é o banho, não uma tarefa de mesa |
+| **As duas coisas juntas** | Os dois antecedentes acontecem ao mesmo tempo; as consequências se alternam | Precisa de avaliação |
+| **Ele quer atenção** | Possível atenção durante o episódio | Nenhum dado mostra isso: hipótese menos apoiada |
 
-**Raciocínio-chave:** o **lanche** é o dado que mais ajuda. Ele enfraquece H1 e torna H2 ou H3 mais plausíveis, mas não descarta H1.
+**Raciocínio-chave:** o **lanche** é o dado que mais ajuda. Ele enfraquece "quer os trilhos" e torna "escapar da mesa" (ou as duas juntas) mais provável, mas não descarta "quer os trilhos".
 
 ### 5. O que fazer, e se a explicação estiver errada?
 
 | Estratégia escolhida para… | Se a função real for outra |
 |---|---|
-| **H1:** "primeiro mesa, depois trem", com os trilhos voltando no fim; ensinar a pedir "mais trem" e a esperar | Se for H2, pouco efeito: a mesa continua aversiva |
-| **H2:** tarefa mais curta e mais fácil, com tema de trens; ensinar a pedir "pausa" ou "ajuda" | Se for H1, o comportamento na retirada dos trilhos continua |
-| **H2:** adiar a mesa quando ele grita, "para acalmar" | **Fortalece** o comportamento: o grito continua produzindo a fuga |
+| **Quer os trilhos:** "primeiro mesa, depois trem", com os trilhos voltando no fim; ensinar a pedir "mais trem" e a esperar | Se na verdade ele quer escapar da mesa, pouco efeito: a mesa continua aversiva |
+| **Quer escapar da mesa:** tarefa mais curta e mais fácil, com tema de trens; ensinar a pedir "pausa" ou "ajuda" | Se na verdade ele quer os trilhos, o comportamento na retirada dos trilhos continua |
+| **Erro comum:** adiar a mesa quando ele grita, "para acalmar" | **Fortalece** o comportamento: o grito continua produzindo a fuga |
 
 **Ponto didático:** errar a hipótese não é só "não funcionar"; pode **ensinar o contrário** do que se quer.
 
